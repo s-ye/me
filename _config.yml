@@ -1,9 +1,11 @@
-remote-theme: al-folio
+remote-theme: jekyll-theme-minimal
 title: Songyu Ye
 description: sy459@cornell.edu
 
 github:
   is_project_page: false
 
-navbar_fixed: true
-footer_fixed: true
+header_pages:
+  - README.md
+  - about.md
+
