@@ -5,6 +5,5 @@ description: sy459@cornell.edu
 github:
   is_project_page: false
 
-header_pages:
-  - README.md
-  - aboutme.md
+navbar_fixed: true
+footer_fixed: true
