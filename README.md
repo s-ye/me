@@ -13,5 +13,5 @@ You can find the REU paper [here](https://arxiv.org/abs/2304.02745)
 Here is my ![CV](ye-cv.pdf)
 
 
-![me](me-at-board.jpeg =100x20)
+![me](me-at-board.jpeg)
 
