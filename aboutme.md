@@ -1,6 +1,6 @@
 ---
 title: aboutme
-permalink: /index
+permalink: /aboutme
 ---
 
 This page will be about me
