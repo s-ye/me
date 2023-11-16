@@ -10,7 +10,7 @@ I previously participated in the University of Maryland REU in Combinatorics, Al
 
 You can find the REU paper [here](https://arxiv.org/abs/2304.02745)
 
-xfun::embed_file("ye_cv.pdf")
+[CV]({{file name='ye_cv.pdf'}})
 
 
 ![me](me-at-board.jpeg)
