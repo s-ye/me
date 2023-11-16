@@ -6,6 +6,6 @@ github:
   is_project_page: false
 
 header_pages:
-  - me/README.md
-  - me/aboutme.md
+  - /README.md
+  - /aboutme.md
 
