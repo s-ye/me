@@ -10,7 +10,7 @@ I previously participated in the University of Maryland REU in Combinatorics, Al
 
 You can find the REU paper [here](https://arxiv.org/abs/2304.02745)
 
-Here is my ![CV](./ye-cv.pdf)
+Here is my [CV](./ye-cv.pdf)
 
 
 ![me](me-at-board.jpeg)
