@@ -1,7 +1,8 @@
 ---
-layout: page
 title: aboutme
-permalink: /aboutme
+permalink: /index
 ---
 
-This bage will be about me
+This page will be about me
+
+
