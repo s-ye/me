@@ -10,5 +10,3 @@ Recently I have developed a budding interest in the intersection of algebraic ge
 
 Here is my [CV](./ye-cv.pdf).
 
-I enjoy traveling, Chinese language, biking, running, and recently rollerblading. My favorite author is John Steinbeck. I spent some time backpacking in Latin America in the winter of 2023. This is me at Semuc Champey, Guatemala.
-![me](5519C6F0-8C3F-407E-8B69-83F2AA3958EB_1_105_c.jpeg)
