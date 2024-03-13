@@ -1,7 +1,7 @@
 ---
 title: home
 permalink: /index
-
+layout: home
 ---
 # Songyu Ye (叶松瑜）
 
