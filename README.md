@@ -8,6 +8,3 @@ Hello! I'm a fourth year undergraduate at Cornell University interested in geome
 
 Here is my [CV](./ye-cv.pdf). I am currently on the Math PhD market!
 
-I enjoy traveling, lifting, running, biking, Chinese and Spanish language, and the great game of No Limit Texas Holdem. My favorite author is John Steinbeck. This is me at Semuc Champey, Guatemala in the winter of 2023.
-![me](semuc-champey.jpeg)
-
