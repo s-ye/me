@@ -3,8 +3,8 @@ title: Me
 permalink: /me
 layout: page
 ---
-
-figure {
+<style>
+    figure {
     display: inline-block;
     border: 1px dotted gray;
     margin: 20px; /* adjust as needed */
@@ -22,6 +22,7 @@ figure figcaption {
   margin-left: auto;
   margin-right: auto;
 }
+</style>
 
 **About Me**
 
