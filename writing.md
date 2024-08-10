@@ -3,7 +3,7 @@ title: Writing
 permalink: /writing
 layout: page
 ---
-I was hired by Professor Allen Knutson and Professor Tara Holm (DMS- in the Spring of 2024 as a research assistant working on some problems in toric geometry (DMS-1711317). I have some notes about moment maps and equivariant cohomology in toric geoemtry which you can find here.
+I was employed by Professor Allen Knutson and Professor Tara Holm (DMS-1711317) in the Spring of 2024 as a research assistant working on some problems in toric geometry. I have some notes about moment maps and equivariant cohomology in toric geoemtry which you can find here.
 
 I did a reading course about algebraic groups with Professor Daniel Halpern-Leistner in the Fall of 2023. I polished up my notes from the course and they became an expository paper which you can find [here](https://journals.library.columbia.edu/index.php/cjum/article/view/12908).
 
