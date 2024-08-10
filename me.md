@@ -3,26 +3,6 @@ title: Me
 permalink: /me
 layout: page
 ---
-<style>
-    figure {
-    display: inline-block;
-    border: 1px dotted gray;
-    margin: 20px; /* adjust as needed */
-}
-figure img {
-    vertical-align: top;
-}
-figure figcaption {
-    border: 1px dotted blue;
-    text-align: center;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
 **About Me**
 
@@ -30,14 +10,9 @@ I enjoy traveling, lifting, running, biking, Chinese and Spanish language, and t
 
 **Travel photos**
 
-<figure>
-    <img src="me-in-bryce-canyon.jpeg" width="200" height="auto" class="center"/>
-    <figcaption>Sunset Point in Bryce Canyon (Summer 2024)
-    </figcaption>
-</figure>
 
-
-
+Sunset Point at Bryce Canyon (Summer 2024)
+<img src="me-in-bryce-canyon.jpeg" width="200" height="auto" align = right/>
 
 The Mirador in Estella, Spain (Summer 2024)
 <img src="me-in-spain.JPG" width="200" height="auto" align="right"/>
