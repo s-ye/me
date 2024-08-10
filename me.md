@@ -4,6 +4,7 @@ permalink: /me
 layout: page
 ---
 **About Me**
+
 I enjoy traveling, lifting, running, biking, Chinese and Spanish language, and the great game of No Limit Texas Holdem. My favorite author is John Steinbeck. 
 
 **Travel photos**
