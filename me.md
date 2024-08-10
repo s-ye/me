@@ -9,7 +9,7 @@ This is me at Sunset Point in Bryce Canyon in the summer of 2024.
 ![bryce-canyon](me-in-bryce-canyon.jpeg)
 
 This is me at the Mirador in Estella, Spain in the summer of 2024.
-![estella](me-in-estella.jpeg)
+![estella](me-in-spain.jpeg)
 
 
 This is me at Semuc Champey, Guatemala in the winter of 2023.
