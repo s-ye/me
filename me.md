@@ -5,6 +5,8 @@ layout: page
 ---
 I enjoy traveling, lifting, running, biking, Chinese and Spanish language, and the great game of No Limit Texas Holdem. My favorite author is John Steinbeck. 
 
+**Photos!**
+
 This is me at Sunset Point in Bryce Canyon in the summer of 2024.
 <img src="me-in-bryce-canyon.jpeg" width="200" height="auto" />
 
