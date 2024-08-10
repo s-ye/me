@@ -17,6 +17,12 @@ figure figcaption {
     text-align: center;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 **About Me**
 
 I enjoy traveling, lifting, running, biking, Chinese and Spanish language, and the great game of No Limit Texas Holdem. My favorite author is John Steinbeck. 
@@ -24,7 +30,7 @@ I enjoy traveling, lifting, running, biking, Chinese and Spanish language, and t
 **Travel photos**
 
 <figure>
-    <img src="me-in-bryce-canyon.jpeg" width="200" height="auto" align="center"/>
+    <img src="me-in-bryce-canyon.jpeg" width="200" height="auto" class="center"/>
     <figcaption>Sunset Point in Bryce Canyon (Summer 2024)
     </figcaption>
 </figure>
