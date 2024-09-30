@@ -8,3 +8,4 @@ Hello! I'm a fourth year undergraduate at Cornell University interested in geome
 
 Here is my [CV](./ye-cv.pdf). 
 
+"Doing math is akin to unfolding a melody; its first sounds are usually a gift from someone else." - Alexander Beilinson
