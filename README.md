@@ -14,7 +14,7 @@ Check out my friends!
 
 [Jan-Paul Vincent Ramos-Dávila](https://janpaul.pl/)
 
-[Inle Bush](https://github.com/imbush)
+[Inle Bush](https://imbush.github.io/)
 
 [Sidhanth Holalkere](https://sholalkere.github.io/)
 
