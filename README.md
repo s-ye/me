@@ -13,6 +13,9 @@ Here is my [CV](./ye-cv.pdf).
 Check out my friends! 
 
 [Jan-Paul Vincent Ramos-Dávila](https://janpaul.pl/)
+
 [Inle Bush](https://github.com/imbush)
+
 [Sidhanth Holalkere](https://sholalkere.github.io/)
+
 [Felix Roz](https://www.ferojz.com/)
