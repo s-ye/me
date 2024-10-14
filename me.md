@@ -6,7 +6,9 @@ layout: page
 
 **About Me**
 
-I enjoy traveling, lifting, running, biking, and poker. I am currently learning Spanish and Chinese, also eyeing up French. My favorite author is John Steinbeck. 
+I enjoy traveling, lifting, running, biking, and poker. I am currently learning Spanish and Chinese. My favorite author is John Steinbeck. 
+
+Please send me travel recommendations! I'm currently thinking a lot about China.
 
 **Travel photos**
 
