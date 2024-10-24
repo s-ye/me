@@ -1,16 +1,36 @@
-NVDA no trades made
-
-NVO no trades made
-
-CPNG total gains 0.000000, total investment -100.000000%
-last action: buy at 2024-06-03 at price: 22.549999
+NVDA total gains 0.000000, total investment -100.000000%
+last action: buy at 2024-09-26 at price: 124.029297
 average length of trades: 0:00:00
 winning trades: 0
 losing trades: 0
 
-QCOM no trades made
+NVO total gains 0.000000, total investment -100.000000%
+last action: buy at 2024-09-19 at price: 134.979996
+average length of trades: 0:00:00
+winning trades: 0
+losing trades: 0
 
-INTC no trades made
+CPNG total gains 0.000000, total investment -100.000000%
+last action: buy at 2024-08-08 at price: 22.790001
+average length of trades: 0:00:00
+winning trades: 0
+losing trades: 0
 
-UAL no trades made
+QCOM total gains 0.000000, total investment -100.000000%
+last action: buy at 2024-09-20 at price: 169.830002
+average length of trades: 0:00:00
+winning trades: 0
+losing trades: 0
+
+INTC total gains 0.000000, total investment -100.000000%
+last action: buy at 2024-09-19 at price: 21.500000
+average length of trades: 0:00:00
+winning trades: 0
+losing trades: 0
+
+UAL total gains 0.000000, total investment -100.000000%
+last action: buy at 2024-09-03 at price: 43.970001
+average length of trades: 0:00:00
+winning trades: 0
+losing trades: 0
 
