@@ -9,3 +9,5 @@ using hourly data over the past two years)!
 <img src= "monitor/NVDA.png" width="600" height="auto" />
 <img src= "monitor/INTC.png" width="600" height="auto" />
 <img src= "monitor/QCOM.png" width="600" height="auto" />
+
+Some more [information]{monitor/overview.txt} about the trades.
