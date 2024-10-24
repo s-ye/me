@@ -5,7 +5,7 @@ winning trades: 4
 losing trades: 3
 
 NVO total gains 13276.993247, total investment 32.769932%
-last action: sell on average length of trades: 42 days 03:13:20
+last action: sell on 2024-09-20average length of trades: 42 days 03:13:20
 winning trades: 4
 losing trades: 5
 
@@ -22,7 +22,7 @@ winning trades: 5
 losing trades: 5
 
 INTC total gains 9492.335313, total investment -5.076647%
-last action: sell on average length of trades: 29 days 23:43:38.181818182
+last action: sell on 2024-10-23average length of trades: 29 days 23:43:38.181818182
 winning trades: 4
 losing trades: 7
 
