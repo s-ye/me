@@ -1,0 +1,6 @@
+UAL total gains 14244.499471, total investment 42.444995%
+last action: buy at 2024-09-03 at price: 43.970001
+average length of trades: 40 days 08:45:00
+winning trades: 2
+losing trades: 6
+
