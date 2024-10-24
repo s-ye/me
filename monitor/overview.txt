@@ -2,4 +2,5 @@ NVDA no trades made
 
 NVO no trades made
 
-CPNG total gains 11080.266139, total investment 10.802661%
+CPNG total gains 11074.944848, total investment 10.749448%
+last action: buy at 2024-06-03 at price: 22.549999
