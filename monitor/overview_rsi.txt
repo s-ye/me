@@ -1,0 +1,21 @@
+2024-10-25 15:00:00
+QCOM value of portfolio 16870.509443, total return 68.705094%
+last action: sell on 2024-06-28 at price: 199.360001
+average length of trades: 180 days 12:30:00
+winning trades: 1
+losing trades: 1
+
+2024-10-25 15:00:00
+INTC value of portfolio 8528.729288, total return -14.712707%
+last action: buy at 2024-09-19 at price: 21.500000
+average length of trades: 66 days 13:00:00
+winning trades: 2
+losing trades: 0
+
+2024-10-25 15:00:00
+UAL value of portfolio 9493.050359, total return -5.069496%
+last action: sell on 2024-02-09 at price: 41.744999
+average length of trades: 9 days 02:00:00
+winning trades: 0
+losing trades: 1
+

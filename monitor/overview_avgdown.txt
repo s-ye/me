@@ -1,0 +1,21 @@
+2024-10-25 15:00:00
+TSM value of portfolio 13049.056970, total return 30.490570%
+last action: buy at 2024-09-30 at price: 173.399994
+average length of trades: 37 days 08:33:20
+winning trades: 5
+losing trades: 4
+
+2024-10-25 15:00:00
+WW value of portfolio 5580.137780, total return -44.198622%
+last action: buy at 2024-10-08 at price: 0.980000
+average length of trades: 15 days 06:25:00
+winning trades: 5
+losing trades: 7
+
+2024-10-25 15:00:00
+VKTX value of portfolio 43184.469066, total return 331.844691%
+last action: buy at 2024-10-24 at price: 72.110001
+average length of trades: 28 days 23:54:32.727272727
+winning trades: 6
+losing trades: 5
+
