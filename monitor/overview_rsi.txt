@@ -1,4 +1,11 @@
 2024-10-25 15:00:00
+CPNG value of portfolio 11190.268580, total return 11.902686%
+last action: buy at 2024-07-15 at price: 21.270000
+average length of trades: 107 days 14:30:00
+winning trades: 2
+losing trades: 0
+
+2024-10-25 15:00:00
 QCOM value of portfolio 16870.509443, total return 68.705094%
 last action: sell on 2024-06-28 at price: 199.360001
 average length of trades: 180 days 12:30:00
@@ -6,7 +13,7 @@ winning trades: 1
 losing trades: 1
 
 2024-10-25 15:00:00
-INTC value of portfolio 8528.729288, total return -14.712707%
+INTC value of portfolio 8525.233286, total return -14.747667%
 last action: buy at 2024-09-19 at price: 21.500000
 average length of trades: 66 days 13:00:00
 winning trades: 2
@@ -17,5 +24,12 @@ UAL value of portfolio 9493.050359, total return -5.069496%
 last action: sell on 2024-02-09 at price: 41.744999
 average length of trades: 9 days 02:00:00
 winning trades: 0
+losing trades: 1
+
+2024-10-25 15:00:00
+SE value of portfolio 15445.965611, total return 54.459656%
+last action: buy at 2024-07-12 at price: 73.879997
+average length of trades: 132 days 23:00:00
+winning trades: 1
 losing trades: 1
 
