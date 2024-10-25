@@ -222,3 +222,10 @@ average length of trades: 12 days 16:30:00
 winning trades: 6
 losing trades: 6
 
+2024-10-25 09:00:00
+VKTX total gains 41140.485063, total investment 311.404851%
+last action: buy at 2024-10-24 at price: 72.110001
+average length of trades: 30 days 07:16:21.818181818
+winning trades: 7
+losing trades: 4
+
