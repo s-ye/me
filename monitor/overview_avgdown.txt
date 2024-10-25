@@ -152,3 +152,73 @@ average length of trades: 30 days 07:16:21.818181818
 winning trades: 7
 losing trades: 4
 
+2024-10-25 09:00:00
+NVDA total gains 36572.710319, total investment 265.727103%
+last action: buy at 2024-09-26 at price: 124.029297
+average length of trades: 59 days 18:08:34.285714286
+winning trades: 5
+losing trades: 2
+
+2024-10-25 09:00:00
+NVO total gains 13451.587268, total investment 34.515873%
+last action: sell on 2024-09-20 at price: 126.970001
+average length of trades: 35 days 00:33:20
+winning trades: 6
+losing trades: 3
+
+2024-10-25 09:00:00
+CPNG total gains 10737.297854, total investment 7.372979%
+last action: buy at 2024-08-28 at price: 21.985001
+average length of trades: 26 days 08:36:00
+winning trades: 6
+losing trades: 4
+
+2024-10-25 09:00:00
+QCOM total gains 11511.452515, total investment 15.114525%
+last action: buy at 2024-10-01 at price: 166.089996
+average length of trades: 29 days 21:18:00
+winning trades: 5
+losing trades: 5
+
+2024-10-25 09:00:00
+INTC total gains 9389.253160, total investment -6.107468%
+last action: sell on 2024-10-23 at price: 21.980000
+average length of trades: 25 days 02:10:54.545454545
+winning trades: 6
+losing trades: 5
+
+2024-10-25 09:00:00
+UAL total gains 14389.470417, total investment 43.894704%
+last action: buy at 2024-09-03 at price: 43.970001
+average length of trades: 26 days 06:22:30
+winning trades: 5
+losing trades: 3
+
+2024-10-25 09:00:00
+SE total gains 10686.873238, total investment 6.868732%
+last action: buy at 2024-08-29 at price: 77.574997
+average length of trades: 27 days 11:36:00
+winning trades: 5
+losing trades: 5
+
+2024-10-25 09:00:00
+AMD total gains 11976.187510, total investment 19.761875%
+last action: sell on 2024-10-21 at price: 157.267105
+average length of trades: 32 days 14:24:00
+winning trades: 5
+losing trades: 5
+
+2024-10-25 09:00:00
+TSM total gains 12626.444948, total investment 26.264449%
+last action: buy at 2024-10-01 at price: 172.264999
+average length of trades: 36 days 17:13:20
+winning trades: 6
+losing trades: 3
+
+2024-10-25 09:00:00
+WW total gains 5401.699871, total investment -45.983001%
+last action: buy at 2024-10-08 at price: 0.980000
+average length of trades: 12 days 16:30:00
+winning trades: 6
+losing trades: 6
+
