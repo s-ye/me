@@ -1,5 +1,5 @@
 2024-10-25 15:00:00
-NVDA value of portfolio 33774.441787, total return 237.744418%
+NVDA value of portfolio 33775.225533, total return 237.752255%
 last action: buy at 2024-09-26 at price: 124.029297
 average length of trades: 67 days 15:42:51.428571429
 winning trades: 4
@@ -13,14 +13,14 @@ winning trades: 4
 losing trades: 5
 
 2024-10-25 15:00:00
-CPNG value of portfolio 10887.736799, total return 8.877368%
+CPNG value of portfolio 10884.277276, total return 8.842773%
 last action: buy at 2024-08-08 at price: 22.790001
 average length of trades: 31 days 15:54:00
 winning trades: 4
 losing trades: 6
 
 2024-10-25 15:00:00
-QCOM value of portfolio 11496.244500, total return 14.962445%
+QCOM value of portfolio 11490.056461, total return 14.900565%
 last action: buy at 2024-09-20 at price: 169.830002
 average length of trades: 35 days 11:42:00
 winning trades: 5
