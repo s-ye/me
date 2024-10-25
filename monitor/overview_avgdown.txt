@@ -1,12 +1,12 @@
 2024-10-25 15:00:00
-UAL value of portfolio 14263.530986, total return 42.635310%
+UAL value of portfolio 14224.552584, total return 42.245526%
 last action: buy at 2024-09-03 at price: 43.970001
-average length of trades: 22 days 14:52:30
+average length of trades: 30 days 23:22:30
 winning trades: 4
 losing trades: 4
 
 2024-10-25 15:00:00
-SE value of portfolio 10787.895863, total return 7.878959%
+SE value of portfolio 10786.907093, total return 7.869071%
 last action: buy at 2024-08-29 at price: 78.495003
 average length of trades: 23 days 17:30:00
 winning trades: 6
@@ -20,21 +20,21 @@ winning trades: 6
 losing trades: 4
 
 2024-10-25 15:00:00
-TSM value of portfolio 12958.593972, total return 29.585940%
+TSM value of portfolio 12959.424133, total return 29.594241%
 last action: buy at 2024-09-30 at price: 172.250000
 average length of trades: 36 days 17:13:20
 winning trades: 6
 losing trades: 3
 
 2024-10-25 15:00:00
-WW value of portfolio 5551.903798, total return -44.480962%
+WW value of portfolio 5551.482066, total return -44.485179%
 last action: buy at 2024-10-08 at price: 0.980000
 average length of trades: 13 days 17:45:00
 winning trades: 4
 losing trades: 8
 
 2024-10-25 15:00:00
-VKTX value of portfolio 43506.405113, total return 335.064051%
+VKTX value of portfolio 43483.900620, total return 334.839006%
 last action: buy at 2024-10-24 at price: 72.110001
 average length of trades: 31 days 05:49:05.454545454
 winning trades: 6
