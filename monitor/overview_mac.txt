@@ -19,3 +19,10 @@ average length of trades: 31 days 15:54:00
 winning trades: 4
 losing trades: 6
 
+2024-10-25 14:00:00
+QCOM value of portfolio 11526.741810, total return 15.267418%
+last action: buy at 2024-09-20 at price: 169.830002
+average length of trades: 35 days 11:42:00
+winning trades: 5
+losing trades: 5
+
