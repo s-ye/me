@@ -1,7 +1,7 @@
 2024-10-25 13:00:00
-UAL value of portfolio 14135.047635, total return 41.350476%
-last action: buy at 2024-09-03 at price: 43.970001
-average length of trades: 23 days 00:15:00
-winning trades: 5
+NVDA value of portfolio 33620.754277, total return 236.207543%
+last action: buy at 2024-09-30 at price: 120.973801
+average length of trades: 59 days 12:08:34.285714286
+winning trades: 4
 losing trades: 3
 
