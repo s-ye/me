@@ -101,3 +101,24 @@ losing trades: 1
 2024-10-25 15:00:00
 AMD no trades made
 
+2024-10-25 15:00:00
+TSM value of portfolio 17536.058071, total return 75.360581%
+last action: buy at 2024-09-19 at price: 174.839996
+average length of trades: 76 days 20:00:00
+winning trades: 1
+losing trades: 0
+
+2024-10-25 15:00:00
+WW value of portfolio 3656.613310, total return -63.433867%
+last action: sell on 2024-10-07 at price: 0.781500
+average length of trades: 34 days 13:30:00
+winning trades: 1
+losing trades: 1
+
+2024-10-25 15:00:00
+VKTX value of portfolio 38292.078530, total return 282.920785%
+last action: sell on 2024-07-24 at price: 51.575001
+average length of trades: 82 days 01:00:00
+winning trades: 0
+losing trades: 1
+
