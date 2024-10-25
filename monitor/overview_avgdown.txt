@@ -75,3 +75,80 @@ average length of trades: 30 days 07:16:21.818181818
 winning trades: 7
 losing trades: 4
 
+2024-10-25 09:00:00
+NVDA value of portfolio 35412.968105, total return 254.129681%
+last action: buy at 2024-09-26 at price: 124.029297
+average length of trades: 59 days 18:08:34.285714286
+winning trades: 5
+losing trades: 2
+
+2024-10-25 09:00:00
+NVO value of portfolio 12632.877500, total return 26.328775%
+last action: sell on 2024-09-20 at price: 126.970001
+average length of trades: 35 days 00:33:20
+winning trades: 6
+losing trades: 3
+
+2024-10-25 09:00:00
+CPNG value of portfolio 10376.743230, total return 3.767432%
+last action: buy at 2024-08-28 at price: 21.985001
+average length of trades: 26 days 08:36:00
+winning trades: 6
+losing trades: 4
+
+2024-10-25 09:00:00
+QCOM value of portfolio 11295.025591, total return 12.950256%
+last action: buy at 2024-10-01 at price: 166.089996
+average length of trades: 29 days 21:18:00
+winning trades: 5
+losing trades: 5
+
+2024-10-25 09:00:00
+INTC value of portfolio 9352.756974, total return -6.472430%
+last action: sell on 2024-10-23 at price: 21.980000
+average length of trades: 25 days 02:10:54.545454545
+winning trades: 6
+losing trades: 5
+
+2024-10-25 09:00:00
+UAL value of portfolio 13058.763219, total return 30.587632%
+last action: buy at 2024-09-03 at price: 43.970001
+average length of trades: 26 days 06:22:30
+winning trades: 5
+losing trades: 3
+
+2024-10-25 09:00:00
+SE value of portfolio 10709.690599, total return 7.096906%
+last action: buy at 2024-08-29 at price: 77.574997
+average length of trades: 27 days 11:36:00
+winning trades: 5
+losing trades: 5
+
+2024-10-25 09:00:00
+AMD value of portfolio 11619.581987, total return 16.195820%
+last action: sell on 2024-10-21 at price: 157.267105
+average length of trades: 32 days 14:24:00
+winning trades: 5
+losing trades: 5
+
+2024-10-25 09:00:00
+TSM value of portfolio 11813.481495, total return 18.134815%
+last action: buy at 2024-10-01 at price: 172.264999
+average length of trades: 36 days 17:13:20
+winning trades: 6
+losing trades: 3
+
+2024-10-25 09:00:00
+WW value of portfolio 6024.508857, total return -39.754911%
+last action: buy at 2024-10-08 at price: 0.980000
+average length of trades: 12 days 16:30:00
+winning trades: 6
+losing trades: 6
+
+2024-10-25 09:00:00
+VKTX value of portfolio 31670.076716, total return 216.700767%
+last action: buy at 2024-10-24 at price: 72.110001
+average length of trades: 30 days 07:16:21.818181818
+winning trades: 7
+losing trades: 4
+
