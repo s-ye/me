@@ -1,229 +1,75 @@
 2024-10-25 09:00:00
-NVDA total gains 28544.427998, total investment 185.444280%
+NVDA total gains 35412.968105, total investment 254.129681%
 last action: buy at 2024-09-26 at price: 124.029297
 average length of trades: 59 days 18:08:34.285714286
 winning trades: 5
 losing trades: 2
 
 2024-10-25 09:00:00
-NVO total gains 12089.021272, total investment 20.890213%
+NVO total gains 12632.877500, total investment 26.328775%
 last action: sell on 2024-09-20 at price: 126.970001
 average length of trades: 35 days 00:33:20
 winning trades: 6
 losing trades: 3
 
 2024-10-25 09:00:00
-CPNG total gains 10270.093666, total investment 2.700937%
+CPNG total gains 10376.743230, total investment 3.767432%
 last action: buy at 2024-08-28 at price: 21.985001
 average length of trades: 26 days 08:36:00
 winning trades: 6
 losing trades: 4
 
 2024-10-25 09:00:00
-QCOM total gains 11144.675091, total investment 11.446751%
+QCOM total gains 11295.025591, total investment 12.950256%
 last action: buy at 2024-10-01 at price: 166.089996
 average length of trades: 29 days 21:18:00
 winning trades: 5
 losing trades: 5
 
 2024-10-25 09:00:00
-INTC total gains 9507.469414, total investment -4.925306%
+INTC total gains 9352.756974, total investment -6.472430%
 last action: sell on 2024-10-23 at price: 21.980000
 average length of trades: 25 days 02:10:54.545454545
 winning trades: 6
 losing trades: 5
 
 2024-10-25 09:00:00
-UAL total gains 12749.903276, total investment 27.499033%
+UAL total gains 13058.763219, total investment 30.587632%
 last action: buy at 2024-09-03 at price: 43.970001
 average length of trades: 26 days 06:22:30
 winning trades: 5
 losing trades: 3
 
 2024-10-25 09:00:00
-SE total gains 10564.703898, total investment 5.647039%
+SE total gains 10709.690599, total investment 7.096906%
 last action: buy at 2024-08-29 at price: 77.574997
 average length of trades: 27 days 11:36:00
 winning trades: 5
 losing trades: 5
 
 2024-10-25 09:00:00
-AMD total gains 11371.723253, total investment 13.717233%
+AMD total gains 11619.581987, total investment 16.195820%
 last action: sell on 2024-10-21 at price: 157.267105
 average length of trades: 32 days 14:24:00
 winning trades: 5
 losing trades: 5
 
 2024-10-25 09:00:00
-TSM total gains 11389.343801, total investment 13.893438%
+TSM total gains 11813.481495, total investment 18.134815%
 last action: buy at 2024-10-01 at price: 172.264999
 average length of trades: 36 days 17:13:20
 winning trades: 6
 losing trades: 3
 
 2024-10-25 09:00:00
-WW total gains 6866.962610, total investment -31.330374%
+WW total gains 6024.508857, total investment -39.754911%
 last action: buy at 2024-10-08 at price: 0.980000
 average length of trades: 12 days 16:30:00
 winning trades: 6
 losing trades: 6
 
 2024-10-25 09:00:00
-VKTX total gains 28116.695589, total investment 181.166956%
-last action: buy at 2024-10-24 at price: 72.110001
-average length of trades: 30 days 07:16:21.818181818
-winning trades: 7
-losing trades: 4
-
-2024-10-25 09:00:00
-NVDA total gains 36572.710319, total investment 265.727103%
-last action: buy at 2024-09-26 at price: 124.029297
-average length of trades: 59 days 18:08:34.285714286
-winning trades: 5
-losing trades: 2
-
-2024-10-25 09:00:00
-NVO total gains 13451.587268, total investment 34.515873%
-last action: sell on 2024-09-20 at price: 126.970001
-average length of trades: 35 days 00:33:20
-winning trades: 6
-losing trades: 3
-
-2024-10-25 09:00:00
-CPNG total gains 10737.297854, total investment 7.372979%
-last action: buy at 2024-08-28 at price: 21.985001
-average length of trades: 26 days 08:36:00
-winning trades: 6
-losing trades: 4
-
-2024-10-25 09:00:00
-QCOM total gains 11511.452515, total investment 15.114525%
-last action: buy at 2024-10-01 at price: 166.089996
-average length of trades: 29 days 21:18:00
-winning trades: 5
-losing trades: 5
-
-2024-10-25 09:00:00
-INTC total gains 9389.253160, total investment -6.107468%
-last action: sell on 2024-10-23 at price: 21.980000
-average length of trades: 25 days 02:10:54.545454545
-winning trades: 6
-losing trades: 5
-
-2024-10-25 09:00:00
-UAL total gains 14389.470417, total investment 43.894704%
-last action: buy at 2024-09-03 at price: 43.970001
-average length of trades: 26 days 06:22:30
-winning trades: 5
-losing trades: 3
-
-2024-10-25 09:00:00
-SE total gains 10686.873238, total investment 6.868732%
-last action: buy at 2024-08-29 at price: 77.574997
-average length of trades: 27 days 11:36:00
-winning trades: 5
-losing trades: 5
-
-2024-10-25 09:00:00
-AMD total gains 11976.187510, total investment 19.761875%
-last action: sell on 2024-10-21 at price: 157.267105
-average length of trades: 32 days 14:24:00
-winning trades: 5
-losing trades: 5
-
-2024-10-25 09:00:00
-TSM total gains 12626.444948, total investment 26.264449%
-last action: buy at 2024-10-01 at price: 172.264999
-average length of trades: 36 days 17:13:20
-winning trades: 6
-losing trades: 3
-
-2024-10-25 09:00:00
-WW total gains 5401.699871, total investment -45.983001%
-last action: buy at 2024-10-08 at price: 0.980000
-average length of trades: 12 days 16:30:00
-winning trades: 6
-losing trades: 6
-
-2024-10-25 09:00:00
-VKTX total gains 41140.485063, total investment 311.404851%
-last action: buy at 2024-10-24 at price: 72.110001
-average length of trades: 30 days 07:16:21.818181818
-winning trades: 7
-losing trades: 4
-
-2024-10-25 09:00:00
-NVDA total gains 36572.710319, total investment 265.727103%
-last action: buy at 2024-09-26 at price: 124.029297
-average length of trades: 59 days 18:08:34.285714286
-winning trades: 5
-losing trades: 2
-
-2024-10-25 09:00:00
-NVO total gains 13451.587268, total investment 34.515873%
-last action: sell on 2024-09-20 at price: 126.970001
-average length of trades: 35 days 00:33:20
-winning trades: 6
-losing trades: 3
-
-2024-10-25 09:00:00
-CPNG total gains 10737.297854, total investment 7.372979%
-last action: buy at 2024-08-28 at price: 21.985001
-average length of trades: 26 days 08:36:00
-winning trades: 6
-losing trades: 4
-
-2024-10-25 09:00:00
-QCOM total gains 11511.452515, total investment 15.114525%
-last action: buy at 2024-10-01 at price: 166.089996
-average length of trades: 29 days 21:18:00
-winning trades: 5
-losing trades: 5
-
-2024-10-25 09:00:00
-INTC total gains 9389.253160, total investment -6.107468%
-last action: sell on 2024-10-23 at price: 21.980000
-average length of trades: 25 days 02:10:54.545454545
-winning trades: 6
-losing trades: 5
-
-2024-10-25 09:00:00
-UAL total gains 14389.470417, total investment 43.894704%
-last action: buy at 2024-09-03 at price: 43.970001
-average length of trades: 26 days 06:22:30
-winning trades: 5
-losing trades: 3
-
-2024-10-25 09:00:00
-SE total gains 10686.873238, total investment 6.868732%
-last action: buy at 2024-08-29 at price: 77.574997
-average length of trades: 27 days 11:36:00
-winning trades: 5
-losing trades: 5
-
-2024-10-25 09:00:00
-AMD total gains 11976.187510, total investment 19.761875%
-last action: sell on 2024-10-21 at price: 157.267105
-average length of trades: 32 days 14:24:00
-winning trades: 5
-losing trades: 5
-
-2024-10-25 09:00:00
-TSM total gains 12626.444948, total investment 26.264449%
-last action: buy at 2024-10-01 at price: 172.264999
-average length of trades: 36 days 17:13:20
-winning trades: 6
-losing trades: 3
-
-2024-10-25 09:00:00
-WW total gains 5401.699871, total investment -45.983001%
-last action: buy at 2024-10-08 at price: 0.980000
-average length of trades: 12 days 16:30:00
-winning trades: 6
-losing trades: 6
-
-2024-10-25 09:00:00
-VKTX total gains 41140.485063, total investment 311.404851%
+VKTX total gains 31670.076716, total investment 216.700767%
 last action: buy at 2024-10-24 at price: 72.110001
 average length of trades: 30 days 07:16:21.818181818
 winning trades: 7
