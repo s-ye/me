@@ -1,5 +1,5 @@
 2024-10-25 15:00:00
-CPNG value of portfolio 11183.983782, total return 11.839838%
+CPNG value of portfolio 11177.699783, total return 11.776998%
 last action: buy at 2024-07-15 at price: 21.270000
 average length of trades: 107 days 14:30:00
 winning trades: 2
@@ -27,7 +27,7 @@ winning trades: 0
 losing trades: 1
 
 2024-10-25 15:00:00
-SE value of portfolio 15445.965611, total return 54.459656%
+SE value of portfolio 15440.763954, total return 54.407640%
 last action: buy at 2024-07-12 at price: 73.879997
 average length of trades: 132 days 23:00:00
 winning trades: 1
