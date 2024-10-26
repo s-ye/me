@@ -27,24 +27,28 @@ all_locations = {
     
     # North-Central China
     "13. Xi’an, China": [34.3416, 108.9398],
-    "14. Beijing, China": [39.9042, 116.4074],
+    "14. Pingyao, China": [37.1987, 112.1784],        # New addition
+    "15. Datong, China": [40.0768, 113.3001],        # New addition
+    "16. Mount Wutai, China": [39.0585, 113.5931],   # New addition
+    "17. Shijiazhuang, China": [38.0428, 114.5149],  # New addition
+    "18. Beijing, China": [39.9042, 116.4074],
     
     # East China
-    "15. Shanghai, China": [31.2304, 121.4737],
+    "19. Shanghai, China": [31.2304, 121.4737],
     
     # West China (Xinjiang)
-    "16. Urumqi, China": [43.8256, 87.6168],
-    "17. Turpan, China": [42.9513, 89.1897],
-    "18. Kashgar, China": [39.4704, 75.9898],
+    "20. Urumqi, China": [43.8256, 87.6168],
+    "21. Turpan, China": [42.9513, 89.1897],
+    "22. Kashgar, China": [39.4704, 75.9898],
     
     # Central Asia
-    "19. Osh, Kyrgyzstan": [40.5283, 72.7985],
-    "20. Bishkek, Kyrgyzstan": [42.8746, 74.5698],
-    "21. Almaty, Kazakhstan": [43.2220, 76.8512],
-    "22. Tashkent, Uzbekistan": [41.2995, 69.2401],
-    "23. Samarkand, Uzbekistan": [39.6542, 66.9597],
-    "24. Bukhara, Uzbekistan": [39.7747, 64.4286],
-    "25. Dushanbe, Tajikistan": [38.5598, 68.7870],
+    "23. Osh, Kyrgyzstan": [40.5283, 72.7985],
+    "24. Bishkek, Kyrgyzstan": [42.8746, 74.5698],
+    "25. Almaty, Kazakhstan": [43.2220, 76.8512],
+    "26. Tashkent, Uzbekistan": [41.2995, 69.2401],
+    "27. Samarkand, Uzbekistan": [39.6542, 66.9597],
+    "28. Bukhara, Uzbekistan": [39.7747, 64.4286],
+    "29. Dushanbe, Tajikistan": [38.5598, 68.7870],
 }
 
 
