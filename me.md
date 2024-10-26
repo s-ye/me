@@ -8,7 +8,11 @@ layout: page
 
 I enjoy traveling, lifting, running, biking, and poker. I am currently learning Spanish and Chinese. My favorite author is John Steinbeck. 
 
-Please send me travel recommendations! I'm currently thinking a lot about China.
+Check out my travel map.
+<iframe src="AutoCentered_Map_Route.html" width="100%" height="600px" frameborder="0"></iframe>
+
+
+
 
 **Travel photos**
 
