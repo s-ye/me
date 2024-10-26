@@ -27,28 +27,31 @@ all_locations = {
     
     # North-Central China
     "13. Xi’an, China": [34.3416, 108.9398],
-    "14. Pingyao, China": [37.1987, 112.1784],        # New addition
-    "15. Datong, China": [40.0768, 113.3001],        # New addition
-    "16. Mount Wutai, China": [39.0585, 113.5931],   # New addition
-    "17. Shijiazhuang, China": [38.0428, 114.5149],  # New addition
-    "18. Beijing, China": [39.9042, 116.4074],
+    "14. Pingyao, China": [37.1987, 112.1784],
+    "15. Datong, China": [40.0768, 113.3001],
+    "16. Mount Wutai, China": [39.0585, 113.5931],
+    "17. Shijiazhuang, China": [38.0428, 114.5149],
     
-    # East China
-    "19. Shanghai, China": [31.2304, 121.4737],
+    # Beijing to Shanghai Route
+    "18. Beijing, China": [39.9042, 116.4074],
+    "19. Qufu, China": [35.5964, 116.9919],          # New addition
+    "20. Mount Tai, China": [36.2506, 117.1018],     # New addition
+    "21. Nanjing, China": [32.0603, 118.7969],       # New addition
+    "22. Shanghai, China": [31.2304, 121.4737],
     
     # West China (Xinjiang)
-    "20. Urumqi, China": [43.8256, 87.6168],
-    "21. Turpan, China": [42.9513, 89.1897],
-    "22. Kashgar, China": [39.4704, 75.9898],
+    "23. Urumqi, China": [43.8256, 87.6168],
+    "24. Turpan, China": [42.9513, 89.1897],
+    "25. Kashgar, China": [39.4704, 75.9898],
     
     # Central Asia
-    "23. Osh, Kyrgyzstan": [40.5283, 72.7985],
-    "24. Bishkek, Kyrgyzstan": [42.8746, 74.5698],
-    "25. Almaty, Kazakhstan": [43.2220, 76.8512],
-    "26. Tashkent, Uzbekistan": [41.2995, 69.2401],
-    "27. Samarkand, Uzbekistan": [39.6542, 66.9597],
-    "28. Bukhara, Uzbekistan": [39.7747, 64.4286],
-    "29. Dushanbe, Tajikistan": [38.5598, 68.7870],
+    "26. Osh, Kyrgyzstan": [40.5283, 72.7985],
+    "27. Bishkek, Kyrgyzstan": [42.8746, 74.5698],
+    "28. Almaty, Kazakhstan": [43.2220, 76.8512],
+    "29. Tashkent, Uzbekistan": [41.2995, 69.2401],
+    "30. Samarkand, Uzbekistan": [39.6542, 66.9597],
+    "31. Bukhara, Uzbekistan": [39.7747, 64.4286],
+    "32. Dushanbe, Tajikistan": [38.5598, 68.7870],
 }
 
 
