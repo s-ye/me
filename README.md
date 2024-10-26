@@ -22,6 +22,7 @@ layout: home
             <li><a href="https://imbush.github.io/" target="_blank">Inle Bush</a></li>
             <li><a href="https://sholalkere.github.io/" target="_blank">Sidhanth Holalkere</a></li>
             <li><a href="https://ferojz.com/" target="_blank">Felix Roz</a></li>
+            <li><a href="https://owenoertell.com/" target="_blank">Owen Oertell</a></li>
         </ul>
     </div>
 </div>
