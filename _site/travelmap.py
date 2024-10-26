@@ -29,12 +29,19 @@ all_locations = {
     "22. Dushanbe, Tajikistan": [38.5598, 68.7870],
 }
 
+# Convert dictionary to list of coordinates to ensure ordered path
+location_coords = list(all_locations.values())
+
 # Add markers for each location with labels
 for place, coords in all_locations.items():
     folium.Marker(location=coords, popup=place).add_to(auto_center_map)
 
+# Draw path lines between consecutive points
+for i in range(len(location_coords) - 1):
+    folium.PolyLine([location_coords[i], location_coords[i + 1]], color="blue", weight=2.5, opacity=0.8).add_to(auto_center_map)
+
 # Automatically center and zoom to fit all markers
-auto_center_map.fit_bounds([coords for coords in all_locations.values()])
+auto_center_map.fit_bounds([coords for coords in location_coords])
 
 # Save the map to an HTML file
 auto_center_map.save('AutoCentered_Map_Route.html')
