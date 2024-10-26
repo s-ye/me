@@ -1,4 +1,3 @@
-# Add markers and route lines, as you did previously
 import folium
 
 # Initialize map without specifying center and zoom
@@ -39,4 +38,3 @@ auto_center_map.fit_bounds([coords for coords in all_locations.values()])
 
 # Save the map to an HTML file
 auto_center_map.save('AutoCentered_Map_Route.html')
-
