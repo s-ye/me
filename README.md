@@ -1,6 +1,6 @@
 ---
 title: Songyu Ye (叶松瑜）
-permalink: /index
+permalink: /
 layout: home
 ---
 
