@@ -5,24 +5,39 @@ auto_center_map = folium.Map()
 
 # Define all locations with coordinates and labels
 all_locations = {
+    # Southeast Asia
     "1. Bangkok, Thailand": [13.7563, 100.5018],
     "2. Chiang Mai, Thailand": [18.7883, 98.9853],
     "3. Hanoi, Vietnam": [21.0285, 105.8542],
     "4. Ha Long Bay, Vietnam": [20.9101, 107.1839],
+    
+    # South China
     "5. Nanning, China": [22.8170, 108.3669],
     "6. Guilin, China": [25.2744, 110.2900],
     "7. Kunming, China": [24.8801, 102.8329],
-    "8. Chongqing, China": [29.5630, 106.5516],
-    "9. Chengdu, China": [30.5728, 104.0668],
-    "10. Dali, China": [25.6939, 100.1619],
-    "11. Lijiang, China": [26.8721, 100.2257],
-    "12. Shangri-La, China": [27.8252, 99.7074],
-    "13. Xi'an, China": [34.3416, 108.9398],
+    
+    # Yunnan Province Cluster
+    "8. Dali, China": [25.6939, 100.1619],
+    "9. Lijiang, China": [26.8721, 100.2257],
+    "10. Shangri-La, China": [27.8252, 99.7074],
+    
+    # Central and Southwest China
+    "11. Chongqing, China": [29.5630, 106.5516],
+    "12. Chengdu, China": [30.5728, 104.0668],
+    
+    # North-Central China
+    "13. Xi’an, China": [34.3416, 108.9398],
     "14. Beijing, China": [39.9042, 116.4074],
+    
+    # East China
     "15. Shanghai, China": [31.2304, 121.4737],
+    
+    # West China (Xinjiang)
     "16. Urumqi, China": [43.8256, 87.6168],
     "17. Turpan, China": [42.9513, 89.1897],
     "18. Kashgar, China": [39.4704, 75.9898],
+    
+    # Central Asia
     "19. Osh, Kyrgyzstan": [40.5283, 72.7985],
     "20. Bishkek, Kyrgyzstan": [42.8746, 74.5698],
     "21. Almaty, Kazakhstan": [43.2220, 76.8512],
