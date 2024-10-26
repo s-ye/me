@@ -56,10 +56,3 @@ average length of trades: 34 days 13:30:00
 winning trades: 1
 losing trades: 1
 
-2024-10-26 04:00:00
-VKTX value of portfolio 38292.078530, total return 282.920785%
-last action: sell on 2024-07-24 at price: 51.575001
-average length of trades: 82 days 01:00:00
-winning trades: 0
-losing trades: 1
-
