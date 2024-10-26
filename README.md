@@ -19,9 +19,9 @@ layout: home
         <p>Check out my friends!</p>
         <ul>
             <li><a href="https://janpaul.pl/" target="_blank">Jan-Paul Vincent Ramos-Dávila</a></li>
-            <li><a href="https://jmbush.github.io/" target="_blank">Inle Bush</a></li>
+            <li><a href="https://imbush.github.io/" target="_blank">Inle Bush</a></li>
             <li><a href="https://sholalkere.github.io/" target="_blank">Sidhanth Holalkere</a></li>
-            <li><a href="https://ferozj.com/" target="_blank">Felix Roz</a></li>
+            <li><a href="https://ferojz.com/" target="_blank">Felix Roz</a></li>
         </ul>
     </div>
 </div>
