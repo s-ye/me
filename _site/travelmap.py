@@ -1,4 +1,6 @@
 import folium
+import geopandas as gpd
+
 
 # Initialize map without specifying center and zoom
 auto_center_map = folium.Map()
@@ -81,3 +83,32 @@ for i in range(len(locations_list) - 1):
 
 # Save map to HTML file
 auto_center_map.save("AutoCentered_Map_Route.html")
+
+
+
+def highlight_countries(countries):
+    # Load the world shapefile from GeoPandas
+    world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+
+    # Check if each country is in the dataset and print any not found
+    missing_countries = [country for country in countries if country not in world['name'].values]
+    if missing_countries:
+        print(f"Warning: The following countries were not found: {missing_countries}")
+
+    # Plot the world map
+    fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+    world.plot(ax=ax, color="lightgrey", edgecolor="black")
+
+    # Highlight specified countries in red
+    world[world['name'].isin(countries)].plot(ax=ax, color="red")
+
+    # Add title and show the plot
+    ax.set_title("Highlighted Countries", fontsize=15)
+    plt.show()
+
+# List of countries to highlight
+countries_to_highlight = ["China", "India", "United States", "Brazil", "Australia"]
+
+# Call the function to highlight countries
+highlight_countries(countries_to_highlight)
+

@@ -3,8 +3,11 @@ title: Travel
 permalink: /travel
 layout: page
 ---
-<iframe src="AutoCentered_Map_Route.html" width="100%" height="600px" frameborder="0"></iframe>
+Traveling is a big part of my life. I have spent nontrivial time in the following countries.
 
+
+Here are my upcoming world travel plans.
+<iframe src="AutoCentered_Map_Route.html" width="80%" height="600px" frameborder="0"></iframe>
 
 **Travel photos**
 
