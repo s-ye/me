@@ -45,6 +45,13 @@ all_locations = {
     "25. Urumqi, China": [43.8256, 87.6168],
     "26. Turpan, China": [42.9513, 89.1897],
     "27. Kashgar, China": [39.4704, 75.9898],
+
+    "Mount Kailash, Tibet": [31.0685, 81.3104],
+    "Lake Manasarovar, Tibet": [30.6476, 81.4634],
+    "Darchen, Tibet": [30.9650, 81.3189],
+    "Pulan County (Burang), Tibet": [30.2972, 81.2464],
+    "Hilsa, Nepal": [30.0381, 81.1750],
+
     "28. Lhasa, China (Tibet)": [29.6520, 91.1721],  # Tibet's capital
     "29. Shigatse, China (Tibet)": [29.2682, 88.8806],  # Major city near Everest
     # Add Indian cities after crossing
