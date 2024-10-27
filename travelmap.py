@@ -45,15 +45,13 @@ all_locations = {
     "25. Urumqi, China": [43.8256, 87.6168],
     "26. Turpan, China": [42.9513, 89.1897],
     "27. Kashgar, China": [39.4704, 75.9898],
+    "28. Lhasa, China (Tibet)": [29.6520, 91.1721],  # Tibet's capital
+    "29. Shigatse, China (Tibet)": [29.2682, 88.8806],  # Major city near Everest
+    # Add Indian cities after crossing
+    "30. Leh, India": [34.1526, 77.5771],  # A major town in northern India
+    "31. Srinagar, India": [34.0837, 74.7973],  # Capital of Jammu and Kashmir
+    "32. Delhi, India": [28.6139, 77.2090],  # India’s capital
     
-    # Central Asia
-    "28. Osh, Kyrgyzstan": [40.5283, 72.7985],
-    "29. Bishkek, Kyrgyzstan": [42.8746, 74.5698],
-    "30. Almaty, Kazakhstan": [43.2220, 76.8512],
-    "31. Tashkent, Uzbekistan": [41.2995, 69.2401],
-    "32. Samarkand, Uzbekistan": [39.6542, 66.9597],
-    "33. Bukhara, Uzbekistan": [39.7747, 64.4286],
-    "34. Dushanbe, Tajikistan": [38.5598, 68.7870],
 }
 
 # Add all locations to the map
