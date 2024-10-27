@@ -3,6 +3,7 @@ title: Travel
 permalink: /travel
 layout: page
 ---
+<iframe src="AutoCentered_Map_Route.html" width="100%" height="600px" frameborder="0"></iframe>
 
 
 **Travel photos**
