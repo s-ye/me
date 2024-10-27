@@ -55,9 +55,16 @@ all_locations = {
     "28. Lhasa, China (Tibet)": [29.6520, 91.1721],  # Tibet's capital
     "29. Shigatse, China (Tibet)": [29.2682, 88.8806],  # Major city near Everest
     # Add Indian cities after crossing
-    "30. Leh, India": [34.1526, 77.5771],  # A major town in northern India
-    "31. Srinagar, India": [34.0837, 74.7973],  # Capital of Jammu and Kashmir
-    "32. Delhi, India": [28.6139, 77.2090],  # India’s capital
+    # "30. Leh, India": [34.1526, 77.5771],  # A major town in northern India
+    # "31. Srinagar, India": [34.0837, 74.7973],  # Capital of Jammu and Kashmir
+    # "32. Delhi, India": [28.6139, 77.2090],  # India’s capital
+    "Kathmandu, Nepal": [27.7172, 85.3240],  # Nepal's capital
+    "Lumbini, Nepal": [27.4695, 83.2750],
+    "Varanasi, India": [25.3176, 82.9739],
+    "Agra, India": [27.1751, 78.0421],  # Taj Mahal location
+    "Jaipur, India": [26.9124, 75.7873],
+    "Delhi, India": [28.6139, 77.2090],  # India’s capital
+
 }
 
 # Add all locations to the map
