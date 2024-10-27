@@ -4,7 +4,6 @@ permalink: /me
 layout: page
 ---
 
-**About Me**
 
 I was born in Shanghai and raised in Chicago. I love traveling, lifting weights, running, and riding motorcycles. I also enjoy playing poker and am currently learning both Spanish and Chinese.
 
