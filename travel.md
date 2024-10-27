@@ -7,7 +7,7 @@ layout: page
 Traveling is a big part of my life. I have spent nontrivial time in the following countries.
 
 <!-- Highlighted Countries Map -->
-<iframe src="/assets/maps/highlighted_countries_map.html" width="80%" height="600px" frameborder="0"></iframe>
+<iframe src="highlighted_countries_map.html" width="80%" height="600px" frameborder="0"></iframe>
 
 *Map of highlighted countries I’ve visited*
 
