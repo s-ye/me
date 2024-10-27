@@ -7,8 +7,9 @@ layout: page
 Traveling is a big part of my life. I have spent nontrivial time in the following countries.
 
 <!-- Highlighted Countries Map -->
-<iframe src="highlighted_countries_map.html" width="80%" height="600px" frameborder="0"></iframe>
-
+<div style="text-align: center;">
+  <iframe src="highlighted_countries_map.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
+</div>
 *Map of highlighted countries I’ve visited*
 
 ---
@@ -16,8 +17,9 @@ Traveling is a big part of my life. I have spent nontrivial time in the followin
 Here are my upcoming world travel plans.
 
 <!-- Auto-Centered Map Route -->
-<iframe src="AutoCentered_Map_Route.html" width="80%" height="600px" frameborder="0"></iframe>
-
+<div style="text-align: center;">
+  <iframe src="AutoCentered_Map_Route.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
+</div>
 *Planned route for future travels*
 
 ---
