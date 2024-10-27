@@ -5,7 +5,7 @@ layout: page
 ---
 
 
-I was born in Shanghai and raised in Chicago. I love traveling, lifting weights, running, and riding motorcycles. I also enjoy playing poker and am currently learning both Spanish and Chinese.
+I am Chinese American, born in Shanghai and raised in Chicago. I love traveling, lifting weights, running, and riding motorcycles. I also enjoy playing poker and am currently learning both Spanish and Chinese.
 
 Books are a big part of my life, and my favorite author is John Steinbeck.
 
