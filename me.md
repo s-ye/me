@@ -6,7 +6,11 @@ layout: page
 
 **About Me**
 
-I enjoy traveling, lifting, running, biking, and poker. I am currently learning Spanish and Chinese. My favorite author is John Steinbeck. 
+I was born in Shanghai and raised in Chicago. I love traveling, lifting weights, running, and riding motorcycles. I also enjoy playing poker and am currently learning both Spanish and Chinese.
+
+Books are a big part of my life, and my favorite author is John Steinbeck.
+
+Thanks for visiting my site!
 
 Check out my travel map.
 <iframe src="AutoCentered_Map_Route.html" width="100%" height="600px" frameborder="0"></iframe>
