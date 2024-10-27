@@ -27,7 +27,7 @@ winning trades: 7
 losing trades: 3
 
 2024-10-27 01:00:00
-INTC value of portfolio 9580.325972, total return -4.196740%
+INTC value of portfolio 9586.017875, total return -4.139821%
 last action: sell on 2024-10-23 at price: 21.980000
 average length of trades: 20 days 22:38:10.909090909
 winning trades: 6
