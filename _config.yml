@@ -1,9 +1,28 @@
-theme: minima
-title: Songyu Ye
-description: sy459@cornell.edu
+# Uncomment or remove the theme line for Minima
+# theme: minima
 
+# Configure for Beautiful Jekyll
+title: "Songyu Ye"
+description: My personal website
+author:
+  name: "Songyu Ye"
+  email: "sy459@cornell.edu"
+url: "https://s-ye.github.io"  # Change to your actual GitHub Pages URL
 github:
   is_project_page: false
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "About Me"
+    url: "/about"
+  - name: "Travel"
+    url: "/travel"
+  - name: "Writing"
+    url: "/writing"
+  - name: "Signals"
+    url: "/signals"

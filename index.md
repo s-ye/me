@@ -1,7 +1,8 @@
 ---
-title: Songyu Ye (叶松瑜）
+# title: Songyu Ye (叶松瑜）
+title: "Home"
 permalink: /
-layout: home
+layout: default
 ---
 
 <div style="display: flex; align-items: flex-start;">
