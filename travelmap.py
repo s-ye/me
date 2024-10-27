@@ -5,12 +5,12 @@ auto_center_map = folium.Map()
 
 # Define all locations with coordinates and labels
 all_locations = {
-    # Southeast Asia
+    # South China
     "1. Hong Kong": [22.3193, 114.1694],
     "2. Shenzhen, China": [22.5431, 114.0579],
     "3. Guangzhou, China": [23.1291, 113.2644],
 
-    # South China
+    # South-Central China
     "4. Nanning, China": [22.8170, 108.3669],
     "5. Guilin, China": [25.2744, 110.2900],
     "6. Kunming, China": [24.8801, 102.8329],

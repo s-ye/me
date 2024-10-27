@@ -4,3 +4,4 @@ cd "/Users/songye03/Desktop/me"
 git add .
 git commit -m "update travelmap"
 git push
+bundle exec jekyll serve
