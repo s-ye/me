@@ -108,7 +108,7 @@ if __name__ == "__main__":
     create_auto_centered_map(all_locations)
 
     # List of countries to highlight
-    countries_to_highlight = ["China", "India", "United States", "Brazil", "Australia"]
+    countries_to_highlight = ["China", "Mexico", "United States", "Canada", "Guatemala", "Honduras", "Spain", "United Kingdom"]
 
     # Call the function to highlight countries and save to HTML
     highlight_countries_on_map(countries_to_highlight, shapefile_path="/Users/songye03/Desktop/me/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp")
