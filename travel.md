@@ -4,7 +4,7 @@ permalink: /travel
 layout: page
 ---
 Traveling is a big part of my life. I have spent nontrivial time in the following countries.
-<iframe src="/Users/songye03/Desktop/me/highlighted_countries_map.html width="80%" height="600px" frameborder="0"></iframe>
+<iframe src="highlighted_countries_map.html width="80%" height="600px" frameborder="0"></iframe>
 
 
 
