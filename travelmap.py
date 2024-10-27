@@ -60,6 +60,11 @@ all_locations = {
 for location, coordinates in all_locations.items():
     folium.Marker(location=coordinates, popup=location).add_to(auto_center_map)
 
+# Add edges from i to i+1
+locations_list = list(all_locations.values())
+for i in range(len(locations_list) - 1):
+    folium.PolyLine(locations_list[i:i+2], color="blue", weight=2.5, opacity=1).add_to(auto_center_map)
+
 # Save map to HTML file
 auto_center_map.save("AutoCentered_Map_Route.html")
 
