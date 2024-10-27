@@ -51,7 +51,6 @@ all_locations = {
     "30. Leh, India": [34.1526, 77.5771],  # A major town in northern India
     "31. Srinagar, India": [34.0837, 74.7973],  # Capital of Jammu and Kashmir
     "32. Delhi, India": [28.6139, 77.2090],  # India’s capital
-    
 }
 
 # Add all locations to the map
