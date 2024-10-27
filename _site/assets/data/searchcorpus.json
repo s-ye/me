@@ -4,7 +4,7 @@
 "title"    : "Sample blog post to learn markdown tips", 
 "desc"     : "Sample blog post to learn markdown tips", 
 "category" : "test", 
-"url"      : "/2020/02/28/sample-markdown.html", 
+"url"      : "/2020-02-28-sample-markdown/", 
 "date"     : "February 28, 2020" 
 }, 
  
@@ -12,7 +12,7 @@
 "title"    : "Flake it till you make it", 
 "desc"     : "Flake it till you make it", 
 "category" : "books, test", 
-"url"      : "/2020/02/26/flake-it-till-you-make-it.html", 
+"url"      : "/2020-02-26-flake-it-till-you-make-it/", 
 "date"     : "February 26, 2020" 
 }, 
  
@@ -21,7 +21,7 @@
 "title"    : "About me", 
 "desc"     : "About me", 
 "category" : "page", 
-"url"      : "/beautiful-jekyll/aboutme.html", 
+"url"      : "/beautiful-jekyll/aboutme/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -61,7 +61,7 @@
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
-"url"      : "/beautiful-jekyll/tags.html", 
+"url"      : "/beautiful-jekyll/tags/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -78,6 +78,14 @@
 "desc"     : "Writing", 
 "category" : "page", 
 "url"      : "/writing", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Unreleased version", 
+"desc"     : "Unreleased version", 
+"category" : "page", 
+"url"      : "/beautiful-jekyll/CHANGELOG/", 
 "date"     : "January 1, 1970" 
 } 
  
