@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-27T00:49:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Songyu Ye</title><subtitle>sy459@cornell.edu</subtitle><entry><title type="html">Sample blog post to learn markdown tips</title><link href="http://localhost:4000/2020/02/28/sample-markdown.html" rel="alternate" type="text/html" title="Sample blog post to learn markdown tips" /><published>2020-02-28T00:00:00-05:00</published><updated>2020-02-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/28/sample-markdown</id><content type="html" xml:base="http://localhost:4000/2020/02/28/sample-markdown.html"><![CDATA[<p class="box-success">This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to <a href="https://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it’ll teach you how to transform regular text into bold/italics/tables/etc.<br />I also encourage you to look at the <a href="https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md">code that created this post</a> to learn some more advanced tips about using markdown in Beautiful Jekyll.</p>
+
+<p><strong>Here is some bold text</strong></p>
+
+<h2 id="here-is-a-secondary-heading">Here is a secondary heading</h2>
+
+<p><a href="https://deanattali.com/">This is a link to a different site</a> and <a href="#local-urls">this is a link to a section inside this page</a>.</p>
+
+<p>Here’s a table:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Number</th>
+      <th style="text-align: left">Next number</th>
+      <th style="text-align: left">Previous number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Five</td>
+      <td style="text-align: left">Six</td>
+      <td style="text-align: left">Four</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ten</td>
+      <td style="text-align: left">Eleven</td>
+      <td style="text-align: left">Nine</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Seven</td>
+      <td style="text-align: left">Eight</td>
+      <td style="text-align: left">Six</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Two</td>
+      <td style="text-align: left">Three</td>
+      <td style="text-align: left">One</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>You can use <a href="https://www.mathjax.org/">MathJax</a> to write LaTeX expressions. For example:
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\)</p>
+
+<p>How about a yummy crepe?</p>
+
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe" /></p>
+
+<p>It can also be centered!</p>
+
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe" class="mx-auto d-block" /></p>
+
+<p>Here’s a code chunk:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+</code></pre></div></div>
+
+<p>And here is the same code with syntax highlighting:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">foo</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span><span class="p">(</span><span class="nx">x</span> <span class="o">+</span> <span class="mi">5</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="nf">foo</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>And here is the same code yet again but with line numbers:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="code"><pre><span class="kd">var</span> <span class="nx">foo</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span><span class="p">(</span><span class="nx">x</span> <span class="o">+</span> <span class="mi">5</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="nf">foo</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<h2 id="boxes">Boxes</h2>
+<p>You can add notification, warning and error boxes like this:</p>
+
+<h3 id="notification">Notification</h3>
+
+<p class="box-note"><strong>Note:</strong> This is a notification box.</p>
+
+<h3 id="warning">Warning</h3>
+
+<p class="box-warning"><strong>Warning:</strong> This is a warning box.</p>
+
+<h3 id="error">Error</h3>
+
+<p class="box-error"><strong>Error:</strong> This is an error box.</p>
+
+<h2 id="local-urls">Local URLs in project sites</h2>
+
+<p>When hosting a <em>project site</em> on GitHub Pages (for example, <code class="language-plaintext highlighter-rouge">https://USERNAME.github.io/MyProject</code>), URLs that begin with <code class="language-plaintext highlighter-rouge">/</code> and refer to local files may not work correctly due to how the root URL (<code class="language-plaintext highlighter-rouge">/</code>) is interpreted by GitHub Pages. You can read more about it <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. To demonstrate the issue, the following local image will be broken <strong>if your site is a project site:</strong></p>
+
+<p><img src="/assets/img/crepe.jpg" alt="Crepe" /></p>
+
+<p>If the above image is broken, then you’ll need to follow the instructions <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. Here is proof that it can be fixed:</p>
+
+<p><img src="/assets/img/crepe.jpg" alt="Crepe" /></p>]]></content><author><name>Bill Smith</name></author><category term="test" /><summary type="html"><![CDATA[This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that created this post to learn some more advanced tips about using markdown in Beautiful Jekyll.]]></summary></entry><entry><title type="html">Flake it till you make it</title><link href="http://localhost:4000/2020/02/26/flake-it-till-you-make-it.html" rel="alternate" type="text/html" title="Flake it till you make it" /><published>2020-02-26T00:00:00-05:00</published><updated>2020-02-26T00:00:00-05:00</updated><id>http://localhost:4000/2020/02/26/flake-it-till-you-make-it</id><content type="html" xml:base="http://localhost:4000/2020/02/26/flake-it-till-you-make-it.html"><![CDATA[<p>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</p>
+
+<p>The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.</p>
+
+<p>At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.</p>
+
+<p>A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.</p>]]></content><author><name>Sharon Smith and Barry Simpson</name></author><category term="books" /><category term="test" /><summary type="html"><![CDATA[Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?]]></summary></entry></feed>
