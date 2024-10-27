@@ -61,5 +61,5 @@ for location, coordinates in all_locations.items():
     folium.Marker(location=coordinates, popup=location).add_to(auto_center_map)
 
 # Save map to HTML file
-auto_center_map.save("travel_map.html")
+auto_center_map.save("AutoCentered_Map_Route.html")
 
