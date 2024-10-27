@@ -11,14 +11,14 @@ Books are a big part of my life, and my favorite author is John Steinbeck.
 
 Thanks for visiting my site!
 
-        <p>Check out my friends!</p>
-        <ul>
-            <li><a href="https://janpaul.pl/" target="_blank">Jan-Paul Vincent Ramos-Dávila</a></li>
-            <li><a href="https://imbush.github.io/" target="_blank">Inle Bush</a></li>
-            <li><a href="https://sholalkere.github.io/" target="_blank">Sidhanth Holalkere</a></li>
-            <li><a href="https://ferojz.com/" target="_blank">Felix Roz</a></li>
-            <li><a href="https://owenoertell.com/" target="_blank">Owen Oertell</a></li>
-        </ul>
+<p>Check out my friends!</p>
+<ul>
+    <li><a href="https://janpaul.pl/" target="_blank">Jan-Paul Vincent Ramos-Dávila</a></li>
+    <li><a href="https://imbush.github.io/" target="_blank">Inle Bush</a></li>
+    <li><a href="https://sholalkere.github.io/" target="_blank">Sidhanth Holalkere</a></li>
+    <li><a href="https://ferojz.com/" target="_blank">Felix Roz</a></li>
+    <li><a href="https://owenoertell.com/" target="_blank">Owen Oertell</a></li>
+</ul>
 
 <iframe src="AutoCentered_Map_Route.html" width="100%" height="600px" frameborder="0"></iframe>
 
