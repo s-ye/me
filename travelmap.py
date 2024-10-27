@@ -55,3 +55,11 @@ all_locations = {
     "33. Bukhara, Uzbekistan": [39.7747, 64.4286],
     "34. Dushanbe, Tajikistan": [38.5598, 68.7870],
 }
+
+# Add all locations to the map
+for location, coordinates in all_locations.items():
+    folium.Marker(location=coordinates, popup=location).add_to(auto_center_map)
+
+# Save map to HTML file
+auto_center_map.save("AutoCentered_Map_Route.html")
+
