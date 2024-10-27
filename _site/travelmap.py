@@ -84,31 +84,39 @@ for i in range(len(locations_list) - 1):
 # Save map to HTML file
 auto_center_map.save("AutoCentered_Map_Route.html")
 
+import pycountry
 
+def highlight_countries_on_map(countries, shapefile_path="/Users/songye03/Desktop/me/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp", output_file="highlighted_countries_map.html"):
+    # Load the world shapefile from the local file
+    world = gpd.read_file(shapefile_path)
 
-def highlight_countries(countries):
-    # Load the world shapefile from GeoPandas
-    world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+    # Convert country names to ISO Alpha-3 codes using pycountry
+    country_codes = []
+    for country in countries:
+        try:
+            country_code = pycountry.countries.lookup(country).alpha_3
+            country_codes.append(country_code)
+        except LookupError:
+            print(f"Warning: '{country}' not found in pycountry database.")
 
-    # Check if each country is in the dataset and print any not found
-    missing_countries = [country for country in countries if country not in world['name'].values]
-    if missing_countries:
-        print(f"Warning: The following countries were not found: {missing_countries}")
+    # Filter for the specified countries by ISO code
+    highlighted = world[world["ADM0_A3"].isin(country_codes)]
 
-    # Plot the world map
-    fig, ax = plt.subplots(1, 1, figsize=(15, 10))
-    world.plot(ax=ax, color="lightgrey", edgecolor="black")
+    # Initialize a folium map centered globally
+    world_map = folium.Map(location=[20, 0], zoom_start=2)
 
-    # Highlight specified countries in red
-    world[world['name'].isin(countries)].plot(ax=ax, color="red")
+    # Add highlighted countries to the map in red
+    folium.GeoJson(
+        highlighted,
+        style_function=lambda x: {'fillColor': 'red', 'color': 'black', 'weight': 0.5, 'fillOpacity': 0.7}
+    ).add_to(world_map)
 
-    # Add title and show the plot
-    ax.set_title("Highlighted Countries", fontsize=15)
-    plt.show()
+    # Save the map to an HTML file
+    world_map.save(output_file)
+    print(f"Map has been saved to {output_file}")
 
 # List of countries to highlight
 countries_to_highlight = ["China", "India", "United States", "Brazil", "Australia"]
 
-# Call the function to highlight countries
-highlight_countries(countries_to_highlight)
-
+# Call the function to highlight countries and save to HTML
+highlight_countries_on_map(countries_to_highlight, shapefile_path="/Users/songye03/Desktop/me/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp", output_file="highlighted_countries_map.html")
