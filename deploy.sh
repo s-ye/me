@@ -5,5 +5,5 @@ git add .
 git commit -m "update travelmap"
 git push
 bundle exec jekyll clean
-lsof -i :4000
+lsof -i :4000 | awk 'NR!=1 {print $2}' | xargs kill
 bundle exec jekyll serve
