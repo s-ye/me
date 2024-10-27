@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Songyu Ye (叶松瑜）
 
 # Your name to show in the footer
 author: Songyu Ye
@@ -20,8 +20,7 @@ author: Songyu Ye
 ###############################################
 
 navbar-links:
-  Home: /
-  About Me: "/about"
+  About Me: "/me"
   Travel: "/travel"
   Writing: "/writing"
   Signals: "/signals"

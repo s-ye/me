@@ -1,5 +1,4 @@
 ---
-# title: Songyu Ye (叶松瑜）
 layout: default
 title: "Home"
 permalink: /
