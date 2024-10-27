@@ -9,9 +9,9 @@ I was born in Shanghai and raised in Chicago. I love traveling, lifting weights,
 
 Books are a big part of my life, and my favorite author is John Steinbeck.
 
-Thanks for visiting my site!
 
-<p>Check out my friends!</p>
+
+<p>Thanks for visiting my site! My friends are doing cool things.</p>
 <ul>
     <li><a href="https://janpaul.pl/" target="_blank">Jan-Paul Vincent Ramos-Dávila</a></li>
     <li><a href="https://imbush.github.io/" target="_blank">Inle Bush</a></li>
