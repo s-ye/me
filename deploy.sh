@@ -5,4 +5,5 @@ git add .
 git commit -m "update travelmap"
 git push
 bundle exec jekyll clean
+lsof -i :4000
 bundle exec jekyll serve
