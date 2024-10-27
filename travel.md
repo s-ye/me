@@ -26,11 +26,13 @@ Here are my upcoming world travel plans.
 
 **Travel photos**
 
+<div style="text-align: center;">
+
 - Sunset Point at Bryce Canyon (Summer 2024)  
-  <img src="me-in-bryce-canyon.jpeg" width="200" height="auto" />
+  <img src="me-in-bryce-canyon.jpeg" style="width: 100%; max-width: 400px; height: auto;" alt="Sunset Point at Bryce Canyon" />
 
 - The Mirador in Estella, Spain (Summer 2024)  
-  <img src="me-in-spain.JPG" width="200" height="auto" />
+  <img src="me-in-spain.JPG" style="width: 100%; max-width: 400px; height: auto;" alt="The Mirador in Estella, Spain" />
 
 - Semuc Champey, Guatemala (Winter 2023)  
-  <img src="semuc-champey.jpeg" width="200" height="auto" />
+  <img src="semuc-champey.jpeg" style="width: 100%; max-width: 400px; height: auto;" alt="Semuc Champey, Guatemala" />
