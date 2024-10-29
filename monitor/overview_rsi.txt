@@ -5,7 +5,7 @@ NVDA no trades made
 NVO no trades made
 
 2024-10-29 09:00:00
-CPNG value of portfolio 11269.868560, total return 12.698686%
+CPNG value of portfolio 11259.394962, total return 12.593950%
 last action: buy at 2024-07-15 at price: 21.270000
 average length of trades: 107 days 14:30:00
 winning trades: 2
@@ -19,7 +19,7 @@ winning trades: 1
 losing trades: 1
 
 2024-10-29 09:00:00
-INTC value of portfolio 8568.932307, total return -14.310677%
+INTC value of portfolio 8547.956297, total return -14.520437%
 last action: buy at 2024-09-19 at price: 21.500000
 average length of trades: 66 days 13:00:00
 winning trades: 2
@@ -33,7 +33,7 @@ winning trades: 0
 losing trades: 1
 
 2024-10-29 09:00:00
-SE value of portfolio 15308.125181, total return 53.081252%
+SE value of portfolio 15081.858572, total return 50.818586%
 last action: buy at 2024-07-12 at price: 73.879997
 average length of trades: 132 days 23:00:00
 winning trades: 1
@@ -43,7 +43,7 @@ losing trades: 1
 AMD no trades made
 
 2024-10-29 09:00:00
-TSM value of portfolio 16891.401713, total return 68.914017%
+TSM value of portfolio 16826.936942, total return 68.269369%
 last action: buy at 2024-09-19 at price: 174.839996
 average length of trades: 76 days 20:00:00
 winning trades: 1
