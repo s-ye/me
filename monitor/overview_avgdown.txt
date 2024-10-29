@@ -1,0 +1,7 @@
+2024-10-29 10:00:00
+NVDA value of portfolio 10560.743020, total return 5.607430%
+last action: buy at 2024-09-30 at price: 120.973801
+average length of trades: 58 days 15:42:51.428571429
+winning trades: 5
+losing trades: 2
+
