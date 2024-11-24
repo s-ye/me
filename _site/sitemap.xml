@@ -21,9 +21,6 @@
 <loc>http://localhost:4000/me</loc>
 </url>
 <url>
-<loc>http://localhost:4000/signals</loc>
-</url>
-<url>
 <loc>http://localhost:4000/beautiful-jekyll/tags/</loc>
 </url>
 <url>

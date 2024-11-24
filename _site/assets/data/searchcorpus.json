@@ -50,14 +50,6 @@
 }, 
  
 { 
-"title"    : "Signals", 
-"desc"     : "Signals", 
-"category" : "page", 
-"url"      : "/signals", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
