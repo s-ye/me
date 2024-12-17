@@ -26,6 +26,8 @@ navbar-links:
 
 
 
+pagination:
+  enabled: false
 ################
 # --- Logo --- #
 ################
@@ -284,7 +286,6 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali

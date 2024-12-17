@@ -18,7 +18,7 @@ Here are my upcoming world travel plans.
 
 <!-- Auto-Centered Map Route -->
 <div style="text-align: center;">
-  <iframe src="AutoCentered_Map_Route.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
+  <iframe src="map_route.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
 </div>
 *Planned route for future travels*
 
