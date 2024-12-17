@@ -22,6 +22,11 @@ Here are my upcoming world travel plans.
 </div>
 *Planned route for future travels*
 
+<!-- Include the location list using an iframe -->
+<div style="text-align: center;">
+    <iframe src="/locations_list.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
+</div>
+
 ---
 
 **Travel photos**
