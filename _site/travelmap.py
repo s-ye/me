@@ -48,59 +48,66 @@ def highlight_countries_on_map(countries, shapefile_path, output_file="highlight
     world_map.save(output_file)
     print(f"Map has been saved to {output_file}")
 
-# Define all locations with coordinates and labels
+# # Define all locations with coordinates and labels
+# all_locations = {
+#     # South China
+#     "1. Hong Kong": [22.3193, 114.1694],
+#     "2. Shenzhen, China": [22.5431, 114.0579],
+#     "3. Guangzhou, China": [23.1291, 113.2644],
+#     # South-Central China
+#     "4. Nanning, China": [22.8170, 108.3669],
+#     "5. Guilin, China": [25.2744, 110.2900],
+#     "6. Kunming, China": [24.8801, 102.8329],
+#     # Yunnan Province Cluster
+#     "7. Dali, China": [25.6939, 100.1619],
+#     "8. Lijiang, China": [26.8721, 100.2257],
+#     "9. Shangri-La, China": [27.8252, 99.7074],
+#     # Central and Southwest China
+#     "10. Chongqing, China": [29.5630, 106.5516],
+#     "11. Chengdu, China": [30.5728, 104.0668],
+#     # North-Central China
+#     "12. Xi’an, China": [34.3416, 108.9398],
+#     "13. Luoyang, China": [34.6587, 112.4249],       # Henan, near Xi'an
+#     "14. Zhengzhou, China": [34.7466, 113.6254],     # Henan, capital of Henan
+#     "15. Kaifeng, China": [34.7972, 114.3075],       # Henan, close to Zhengzhou
+#     "16. Anyang, China": [36.0976, 114.3924],
+#     "17. Pingyao, China": [37.1987, 112.1784],
+#     "18. Datong, China": [40.0768, 113.3001],
+#     "19. Mount Wutai, China": [39.0585, 113.5931],
+#     "20. Shijiazhuang, China": [38.0428, 114.5149],
+#     # Beijing to Shanghai Route
+#     "21. Beijing, China": [39.9042, 116.4074],
+#     "22. Qufu, China": [35.5964, 116.9919],
+#     "23. Mount Tai, China": [36.2506, 117.1018],
+#     "24. Qingdao, China": [36.0671, 120.3826],
+#     "25. Nanjing, China": [32.0603, 118.7969],
+#     "26. Shanghai, China": [31.2304, 121.4737],
+#     "27. Fuzhou, China": [26.0765, 119.2911],
+#     "28. Xiamen, China": [24.4798, 118.0894],
+#     # West China (Xinjiang)
+#     "29. Urumqi, China": [43.8256, 87.6168],
+#     "30. Turpan, China": [42.9513, 89.1897],
+#     "31. Kashgar, China": [39.4704, 75.9898],
+#     "32. Mount Kailash, Tibet": [31.0685, 81.3104],
+#     "33. Lake Manasarovar, Tibet": [30.6476, 81.4634],
+#     "34. Darchen, Tibet": [30.9650, 81.3189],
+#     "35. Pulan County (Burang), Tibet": [30.2972, 81.2464],
+#     "36. Hilsa, Nepal": [30.0381, 81.1750],
+#     "37. Lhasa, China (Tibet)": [29.6520, 91.1721],  # Tibet's capital
+#     "38. Shigatse, China (Tibet)": [29.2682, 88.8806],  # Major city near Everest
+#     "39. Kathmandu, Nepal": [27.7172, 85.3240],  # Nepal's capital
+#     "40. Lumbini, Nepal": [27.4695, 83.2750],
+#     "41. Varanasi, India": [25.3176, 82.9739],
+#     "42. Agra, India": [27.1751, 78.0421],  # Taj Mahal location
+#     "43. Jaipur, India": [26.9124, 75.7873],
+#     "44. Delhi, India": [28.6139, 77.2090],  # India’s capital
+# }
+
 all_locations = {
-    # South China
-    "1. Hong Kong": [22.3193, 114.1694],
-    "2. Shenzhen, China": [22.5431, 114.0579],
-    "3. Guangzhou, China": [23.1291, 113.2644],
-    # South-Central China
-    "4. Nanning, China": [22.8170, 108.3669],
-    "5. Guilin, China": [25.2744, 110.2900],
-    "6. Kunming, China": [24.8801, 102.8329],
-    # Yunnan Province Cluster
-    "7. Dali, China": [25.6939, 100.1619],
-    "8. Lijiang, China": [26.8721, 100.2257],
-    "9. Shangri-La, China": [27.8252, 99.7074],
-    # Central and Southwest China
-    "10. Chongqing, China": [29.5630, 106.5516],
-    "11. Chengdu, China": [30.5728, 104.0668],
-    # North-Central China
-    "12. Xi’an, China": [34.3416, 108.9398],
-    "13. Luoyang, China": [34.6587, 112.4249],       # Henan, near Xi'an
-    "14. Zhengzhou, China": [34.7466, 113.6254],     # Henan, capital of Henan
-    "15. Kaifeng, China": [34.7972, 114.3075],       # Henan, close to Zhengzhou
-    "16. Anyang, China": [36.0976, 114.3924],
-    "17. Pingyao, China": [37.1987, 112.1784],
-    "18. Datong, China": [40.0768, 113.3001],
-    "19. Mount Wutai, China": [39.0585, 113.5931],
-    "20. Shijiazhuang, China": [38.0428, 114.5149],
-    # Beijing to Shanghai Route
-    "21. Beijing, China": [39.9042, 116.4074],
-    "22. Qufu, China": [35.5964, 116.9919],
-    "23. Mount Tai, China": [36.2506, 117.1018],
-    "24. Qingdao, China": [36.0671, 120.3826],
-    "25. Nanjing, China": [32.0603, 118.7969],
-    "26. Shanghai, China": [31.2304, 121.4737],
-    "27. Fuzhou, China": [26.0765, 119.2911],
-    "28. Xiamen, China": [24.4798, 118.0894],
-    # West China (Xinjiang)
-    "29. Urumqi, China": [43.8256, 87.6168],
-    "30. Turpan, China": [42.9513, 89.1897],
-    "31. Kashgar, China": [39.4704, 75.9898],
-    "32. Mount Kailash, Tibet": [31.0685, 81.3104],
-    "33. Lake Manasarovar, Tibet": [30.6476, 81.4634],
-    "34. Darchen, Tibet": [30.9650, 81.3189],
-    "35. Pulan County (Burang), Tibet": [30.2972, 81.2464],
-    "36. Hilsa, Nepal": [30.0381, 81.1750],
-    "37. Lhasa, China (Tibet)": [29.6520, 91.1721],  # Tibet's capital
-    "38. Shigatse, China (Tibet)": [29.2682, 88.8806],  # Major city near Everest
-    "39. Kathmandu, Nepal": [27.7172, 85.3240],  # Nepal's capital
-    "40. Lumbini, Nepal": [27.4695, 83.2750],
-    "41. Varanasi, India": [25.3176, 82.9739],
-    "42. Agra, India": [27.1751, 78.0421],  # Taj Mahal location
-    "43. Jaipur, India": [26.9124, 75.7873],
-    "44. Delhi, India": [28.6139, 77.2090],  # India’s capital
+    "Izmir/Alacati, Turkey": [38.2816, 26.3744],
+    "Cappadocia, Turkey": [38.6431, 34.8278],
+    "Safranbolu, Turkey": [41.2500, 32.6833],
+    "Istanbul, Turkey": [41.0082, 28.9784]
 }
 
 if __name__ == "__main__":
