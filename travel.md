@@ -4,28 +4,15 @@ permalink: /travel
 layout: page
 ---
 
-Traveling is a big part of my life. I have spent nontrivial time in the following countries.
-
-<!-- Highlighted Countries Map -->
-<div style="text-align: center;">
-  <iframe src="highlighted_countries_map.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
-</div>
-*Map of highlighted countries I’ve visited*
-
----
-
-Here are my upcoming world travel plans.
-
 <!-- Auto-Centered Map Route -->
 <div style="text-align: center;">
   <iframe src="map_route.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
 </div>
-*Planned route for future travels*
-
-<!-- Include the location list using an iframe -->
 <div style="text-align: center;">
-    <iframe src="/locations_list.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
+  <strong>Spring 2025: Tour through Central Asia</strong>
 </div>
+
+{% include locations_list.html %}
 
 ---
 
@@ -55,3 +42,19 @@ Here are my upcoming world travel plans.
 </div>
 
 </div>
+
+
+
+<!-- Highlighted Countries Map -->
+<div style="text-align: center;">
+  <iframe src="highlighted_countries_map.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
+</div>
+
+
+<div style="text-align: center;">
+  <strong>Countries in which I have spent nontrivial time</strong>
+</div>
+
+
+
+---
