@@ -20,7 +20,7 @@ author: Songyu Ye
 ###############################################
 
 navbar-links:
-  About Me: "/me"
+  About Me: "/aboutme"
   Travel: "/travel"
   Writing: "/writing"
   Turkish: "/turkish"

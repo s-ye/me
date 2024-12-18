@@ -26,6 +26,14 @@
 }, 
  
 { 
+"title"    : "About Me", 
+"desc"     : "About Me", 
+"category" : "page", 
+"url"      : "/aboutme", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "My website", 
 "desc"     : "My website", 
 "category" : "page", 
@@ -38,14 +46,6 @@
 "desc"     : "Home", 
 "category" : "page", 
 "url"      : "/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
-"title"    : "About Me", 
-"desc"     : "About Me", 
-"category" : "page", 
-"url"      : "/me", 
 "date"     : "January 1, 1970" 
 }, 
  
