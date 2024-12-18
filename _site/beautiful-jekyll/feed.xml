@@ -7,8 +7,8 @@
     
     <description>This website is a virtual proof that I&apos;m awesome</description>
     
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/me/</link>
+    <atom:link href="http://localhost:4000/me/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
@@ -22,8 +22,8 @@ Troy and Gallipoli.
 
         </description>
         <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/istanbul/</link>
-        <guid isPermaLink="true">http://localhost:4000/istanbul/</guid>
+        <link>http://localhost:4000/me/istanbul/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/istanbul/</guid>
       </item>
     
       <item>
@@ -33,8 +33,8 @@ Troy and Gallipoli.
           hike from Mestia to Ushguli Tbilisi Kutaisi Batumi Stepantsminda Signagi Georgia is pretty small so you can either rent a car or download an app and hire a driver (it’s pretty cheap) who will drive you everywhere. Bus tour of the Georgian wine country around Signagi and it was amazing...
         </description>
         <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/georgia/</link>
-        <guid isPermaLink="true">http://localhost:4000/georgia/</guid>
+        <link>http://localhost:4000/me/georgia/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/georgia/</guid>
       </item>
     
   </channel>

@@ -117,6 +117,10 @@ edit_page_button: false
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
+
+baseurl: "/me"  # Set for GitHub Pages
+url: "https://s-ye.github.io"  # Your site's base URL
+
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 

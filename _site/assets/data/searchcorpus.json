@@ -4,7 +4,7 @@
 "title"    : "Istanbul", 
 "desc"     : "Istanbul", 
 "category" : "", 
-"url"      : "/istanbul/", 
+"url"      : "/me/istanbul/", 
 "date"     : "January 13, 2024" 
 }, 
  
@@ -12,7 +12,7 @@
 "title"    : "Georgia", 
 "desc"     : "Georgia", 
 "category" : "", 
-"url"      : "/georgia/", 
+"url"      : "/me/georgia/", 
 "date"     : "January 13, 2024" 
 }, 
  
@@ -21,7 +21,7 @@
 "title"    : "About me", 
 "desc"     : "About me", 
 "category" : "page", 
-"url"      : "/beautiful-jekyll/aboutme/", 
+"url"      : "/me/beautiful-jekyll/aboutme/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -29,7 +29,7 @@
 "title"    : "About Me", 
 "desc"     : "About Me", 
 "category" : "page", 
-"url"      : "/aboutme", 
+"url"      : "/me/aboutme", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -37,7 +37,7 @@
 "title"    : "My website", 
 "desc"     : "My website", 
 "category" : "page", 
-"url"      : "/beautiful-jekyll/", 
+"url"      : "/me/beautiful-jekyll/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -45,7 +45,7 @@
 "title"    : "Home", 
 "desc"     : "Home", 
 "category" : "page", 
-"url"      : "/", 
+"url"      : "/me/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -53,7 +53,7 @@
 "title"    : "Turkish", 
 "desc"     : "Turkish", 
 "category" : "page", 
-"url"      : "/turkish", 
+"url"      : "/me/turkish", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -61,7 +61,7 @@
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
-"url"      : "/beautiful-jekyll/tags/", 
+"url"      : "/me/beautiful-jekyll/tags/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -69,7 +69,7 @@
 "title"    : "Travel", 
 "desc"     : "Travel", 
 "category" : "page", 
-"url"      : "/travel", 
+"url"      : "/me/travel", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -77,7 +77,7 @@
 "title"    : "Writing", 
 "desc"     : "Writing", 
 "category" : "page", 
-"url"      : "/writing", 
+"url"      : "/me/writing", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -85,7 +85,7 @@
 "title"    : "Unreleased version", 
 "desc"     : "Unreleased version", 
 "category" : "page", 
-"url"      : "/beautiful-jekyll/CHANGELOG/", 
+"url"      : "/me/beautiful-jekyll/CHANGELOG/", 
 "date"     : "January 1, 1970" 
 } 
  
