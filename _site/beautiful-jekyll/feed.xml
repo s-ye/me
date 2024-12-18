@@ -15,12 +15,24 @@
         <title>Istanbul</title>
         <description>
           
-          This is about Istanbul. A beautiful city that straddles Europe and Asia, with iconic landmarks like Hagia Sophia and the Blue Mosque.
+          ISIC Card ordered for 20 USD online, good for at least two of the palaces. It is worth using it whenever possible.
+Troy and Gallipoli.
 
         </description>
         <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/istanbul/</link>
         <guid isPermaLink="true">http://localhost:4000/istanbul/</guid>
+      </item>
+    
+      <item>
+        <title>Georgia</title>
+        <description>
+          
+          hike from Mestia to Ushguli Tbilisi Kutaisi Batumi Stepantsminda Signagi Georgia is pretty small so you can either rent a car or download an app and hire a driver (it’s pretty cheap) who will drive you everywhere. Bus tour of the Georgian wine country around Signagi and it was amazing...
+        </description>
+        <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/georgia/</link>
+        <guid isPermaLink="true">http://localhost:4000/georgia/</guid>
       </item>
     
   </channel>

@@ -44,7 +44,6 @@ layout: page
 </div>
 
 
-
 <!-- Highlighted Countries Map -->
 <div style="text-align: center;">
   <iframe src="highlighted_countries_map.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
