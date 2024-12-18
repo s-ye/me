@@ -14,6 +14,7 @@ layout: page
 
 {% include locations_list.html %}
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1WQSXntKpjlg-VDX1jJKHWpCDNLQx3c0&ehbc=2E312F" width="640" height="480"></iframe>
 ---
 
 **Travel photos**
