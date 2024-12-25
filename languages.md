@@ -1,18 +1,36 @@
 ---
-title: Turkish
-permalink: /turkish
+title: Language
+permalink: /language
 layout: page
 ---
 
-# Essential Travel Phrases: English, Turkish, Armenian (Eastern), and Azerbaijani
+# Essential Travel Phrases
 
-This guide provides essential English words and phrases along with their translations in **Turkish**, **Armenian (Eastern)**, and **Azerbaijani**. Each language includes a separate pronunciation column to aid in accurate learning and usage.
+This guide provides essential English words and phrases along with their translations in **Turkish**, **Armenian (Eastern)**, and **Azerbaijani**. Each language includes a separate pronunciation column to aid in accurate learning and usage. 
 
 ---
 
-## **1. Basic Numbers**
+## Polite Expressions
 
-### **1 to 10**
+| **English**   | **Turkish**          | **Pronunciation (Turkish)** | **Armenian (Eastern)**            | **Pronunciation (Armenian)** | **Azerbaijani**      | **Pronunciation (Azerbaijani)**            |
+|---------------|----------------------|-----------------------------|-----------------------------------|------------------------------|----------------------|---------------------------------------------|
+| Hello         | Merhaba              | Mehr-hah-bah                | Բարեւ (Barev)                | Ba-rev                       | Salam                | Sa-lam                                      |
+| Goodbye       | Hoşça kal          | Hosh-cha kal               | Ցտեսություն (Tstesutyun)       | Ts-te-su-tyun                | Sağ ol                      | Sah ol                                      |
+| Thank you for your welcoming | Hoş bulduk | Hosh bul-duk | Շնորհակալություն ձեր ողջույնի համար (Shnorhakalutyun dzer voghjuyni hamar) | Shnor-ha-ka-lu-tyun dzer vo-ghju-yni ha-mar | Qonaqpərvərliyiniz üçün təşəkkür edirəm | Qo-naq-per-ver-li-yi-niz ü-chün te-shek-kur eh-dee-rem |
+| Cheers | Şerefe | Sheh-reh-feh | Կենացդ (Kenatsd) | Ke-nats-d | Sağlığınıza | Sah-lı-ğı-nı-za |
+| Excuse me     | Afedersiniz          | Ah-feh-der-see-neez         | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
+| Yes           | Evet                 | Eh-vet                      | Այո (Ayo)                          | Ah-yo                        | Bəli                 | Beh-li                                      |
+| No            | Hayır                | Hi-yor                      | Ոչ (Voch)                          | Voch                         | Xeyr                 | Kh-eyr                                      |
+| Please        | Lütfen               | Lut-fen                     | Խնդրում եմ (Khndrum em)              | Khun-droom em                | Zəhmət olmasa        | Zeh-met ol-ma-sa                            |
+| Thank you     | Teşekkür ederim      | Te-she-kur eh-deh-reem      | Շնորհակալություն (Shnorhakalutyun)   | Shnor-ha-ka-lu-tyun          | Təşəkkür edirəm      | Te-shek-kur eh-dee-rem                      |
+| Sorry         | Özür dilerim         | O-zur di-leh-reem            | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
+| I don’t understand.  | Anlamıyorum.                                | An-la-mı-yo-rum                   | Չեմ հասկանում (Chem haskanum)                | Chem has-ka-num                                  | Mən başa düşmürəm                     | Mən ba-şa düş-mü-rəm                                        |
+| Help | Yardım | Yar-dım | Օգնություն (Ognutyun) | Og-nu-tyun | Kömək | Kö-mək |
+---
+
+## Basic Numbers
+
+### 1 to 10
 
 | **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
 |-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
@@ -47,7 +65,7 @@ This guide provides essential English words and phrases along with their transla
 
 ---
 
-## **2. Time/Cost**
+## **Time/Cost**
 
 ### **Basic Terms**
 
@@ -60,39 +78,29 @@ This guide provides essential English words and phrases along with their transla
 | Evening     | Akşam           | Ak-sham                     | երեկոյան (Erekoyan)      | E-re-ko-yan                  | Axşam            | Ak-sham                           |
 | Night       | Gece            | Ge-je                       | գիշեր (Gisher)          | Gi-sher                      | Gecə             | Ge-je                             |
 
----
-
-## **3. Bathroom**
-
-| **English**              | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)**                   | **Pronunciation (Armenian)** | **Azerbaijani**       | **Pronunciation (Azerbaijani)**        |
-|--------------------------|-------------|-----------------------------|------------------------------------------|------------------------------|------------------------|------------------------------------------|
-| Bathroom                 | Banyo       | Ban-yo                      | լոգարան (Logaran)                         | Lo-ga-ran                    | Hamam / Tualet          | Ha-mam / Too-a-let                       |
 
 
 ---
 
-## **4. Bus Station & Bus Stop**
+## **Logistics**
 
 | **English**    | **Turkish**         | **Pronunciation (Turkish)** | **Armenian (Eastern)**             | **Pronunciation (Armenian)** | **Azerbaijani**         | **Pronunciation (Azerbaijani)** |
 |----------------|---------------------|-----------------------------|------------------------------------|------------------------------|-------------------------|-----------------------------------|
+| Airport       | Havalimanı          | Ha-va-lee-ma-nı             | օդանավակայան (Odanavakayan) | O-da-na-va-ka-yan            | Hava limanı         | Ha-va lee-ma-nı                    |
 | Bus Station    | Otobüs Terminali    | O-to-bus Ter-mi-na-li        | ավտոբուս կայան (Avtobus kayan)       | Av-to-bus ka-yan              | Avtovağzal              | Av-to-va-ghzal                    |
 | Bus Stop       | Otobüs durağı       | O-to-bus du-ra-ğı            | ավտոբուս կանգ (Avtobus kang)         | Av-to-bus kang                | Avtovağzal dayanacağı   | Av-to-va-ghzal da-ya-na-ğı        |
 | Ticket         | Bilet               | Bi-let                      | տոմս (Toms)                        | Toms                          | Bilet                   | Bi-let                           |
 | Departure      | Kalkış              | Kal-kış                     | ելք (Elk)                           | Elk                           | Kalkış                  | Kal-kış                          |
 | Arrival        | Varış               | Va-rış                      | մուտք (Mutk)                         | Mutk                          | Varış                   | Va-rış                           |
-
----
-
-## **5. Hotel & Passport**
-
-| **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
-|-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
+| Bathroom                 | Banyo       | Ban-yo                      | լոգարան (Logaran)                         | Lo-ga-ran                    | Hamam / Tualet          | Ha-mam / Too-a-let                       |
+| Police      | Polis       | Po-lis                      | Պոլիս (Polis)            | Polis                         | Polis            | Po-lis                                    |
+| Market      | Pazar       | Pa-zar                      | Մարկետ (Market)         | Market                        | Bazar            | Ba-zar      
 | Hotel       | Otel        | O-tel                       | Հյուրանոց (Hyuranots)    | Hyu-ra-nots                   | Otel             | O-tel                             |
 | Passport    | Pasaport    | Pa-sa-port                  | անձնագիր (Andznagir)     | Andz-na-gir                   | Pasport          | Pa-sa-port                        |
 
 ---
 
-## **6. Food**
+## **Food**
 
 | **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
 |-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
@@ -102,58 +110,20 @@ This guide provides essential English words and phrases along with their transla
 
 ---
 
-## **7. Distance**
+## **Distance**
 
 | **English**      | **Turkish**        | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)**          |
 |------------------|--------------------|-----------------------------|------------------------|------------------------------|------------------|-------------------------------------------|
 | Far              | Uzak               | Oo-zhan                     | հեռու (Heru)            | He-ru                         | Uzaq             | Oo-zaq                                    |
 | Near             | Yakın              | Ya-kın                      | մոտ (Mot)               | Mot                           | Yaxın            | Ya-xın                                     |
 | Kilometer/Mile   | Kilometre/Mil      | Ki-lo-met-re / Mil          | կիլոմետր/մայլ (Kilomet’r/Mayl) | Ki-lo-met’r / Mayl             | Kilometr/Mil     | Ki-lo-met-re / Mil                         |
-
----
-
-## **8. Polite Expressions**
-
-| **English**   | **Turkish**          | **Pronunciation (Turkish)** | **Armenian (Eastern)**            | **Pronunciation (Armenian)** | **Azerbaijani**      | **Pronunciation (Azerbaijani)**            |
-|---------------|----------------------|-----------------------------|-----------------------------------|------------------------------|----------------------|---------------------------------------------|
-| Yes           | Evet                 | Eh-vet                      | Այո (Ayo)                          | Ah-yo                        | Bəli                 | Beh-li                                      |
-| No            | Hayır                | Hi-yor                      | Ոչ (Voch)                          | Voch                         | Xeyr                 | Kh-eyr                                      |
-| Please        | Lütfen               | Lut-fen                     | Խնդրում եմ (Khndrum em)              | Khun-droom em                | Zəhmət olmasa        | Zeh-met ol-ma-sa                            |
-| Thank you     | Teşekkür ederim      | Te-she-kur eh-deh-reem      | Շնորհակալություն (Shnorhakalutyun)   | Shnor-ha-ka-lu-tyun          | Təşəkkür edirəm      | Te-shek-kur eh-dee-rem                      |
-| Sorry         | Özür dilerim         | O-zur di-leh-reem            | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
-
----
-
-## **9. Communication Phrases**
-
-| **English**           | **Turkish**                                 | **Pronunciation (Turkish)**       | **Armenian (Eastern)**                     | **Pronunciation (Armenian)**                     | **Azerbaijani**                       | **Pronunciation (Azerbaijani)**                             |
-|-----------------------|---------------------------------------------|-----------------------------------|--------------------------------------------|--------------------------------------------------|----------------------------------------|-------------------------------------------------------------|
-| I don’t understand.  | Anlamıyorum.                                | An-la-mı-yo-rum                   | Չեմ հասկանում (Chem haskanum)                | Chem has-ka-num                                  | Mən başa düşmürəm                     | Mən ba-şa düş-mü-rəm                                        |
-| Help | Yardım | Yar-dım | Օգնություն (Ognutyun) | Og-nu-tyun | Kömək | Kö-mək |
-
----
-
-## **10. Directions**
-
-| **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)**               | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
-|-------------|-------------|-----------------------------|--------------------------------------|------------------------------|------------------|-----------------------------------|
 | Left        | Sol         | Sol                         | Ձախ (Dzakh)                           | Dzakh                         | Sol              | Sol                               |
 | Right       | Sağ         | Sah                         | Օջախ (Ojakh)                          | Ojakh                         | Sağ              | Sah                               |
 | Straight    | Düz         | Düz                         | հասկանալի ուղու (Haskanali ugu)           | Has-ka-na-li u-gu             | Düz gedin        | Düz                               |
 | Taxi        | Taksi       | Tak-si                      | Տաքսի (Taksi)                          | Tak-si                        | Taksi            | Tak-si                            |
-
 ---
 
-## **11. Emergency & Assistance**
-
-| **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)**          |
-|-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-------------------------------------------|
-| Police      | Polis       | Po-lis                      | Պոլիս (Polis)            | Polis                         | Polis            | Po-lis                                    |
-| Market      | Pazar       | Pa-zar                      | Մարկետ (Market)         | Market                        | Bazar            | Ba-zar                                    |
-
----
-
-## **12. Technology**
+## **Technology**
 
 | **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)**    |
 |-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-------------------------------------|
@@ -163,7 +133,7 @@ This guide provides essential English words and phrases along with their transla
 
 ---
 
-## **13. Question Words**
+## **Question Words**
 
 | **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)**           |
 |-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|--------------------------------------------|
@@ -176,13 +146,16 @@ This guide provides essential English words and phrases along with their transla
 
 ---
 
-## **14. Price Indicators**
+## **Price Indicators**
 
 | **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
 |-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
 | Cheap       | Ucuz        | U-juz                       | մատչելի (Matcheli)       | Mat-che-li                    | Ucuz             | U-juz                             |
 | Expensive   | Pahalı      | Pa-ha-lı                    | արժեք (Arjhekavor)        | Arj-he-ka-vor                 | Bahalı           | Ba-ha-lı                          |
-## **15. Identity**
+| Free        | Ücretsiz    | Üc-retsiz                   | անվճար (Anvchar)       | An-vchar                     | Pulsuz           | Pul-suz                           |
+
+
+## **Identity**
 
 | **English**       | **Turkish**                     | **Pronunciation (Turkish)**                   | **Armenian (Eastern)**                          | **Pronunciation (Armenian)**                   | **Azerbaijani**                | **Pronunciation (Azerbaijani)**                |
 |-------------------|---------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------|------------------------------------------------|
