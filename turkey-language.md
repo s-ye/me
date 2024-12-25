@@ -37,6 +37,11 @@ This guide provides essential English words and phrases along with their transla
 | Twenty      | Yirmi       | Yer-mee                     | քսան (Ksan)             | Ksan                         | Yirmi            | Yer-mee                          |
 | Thirty      | Otuz        | Oh-tuz                      | Երեսուն (Eresun)         | E-re-su-n                    | Otuz             | Oh-tuz                           |
 | Forty       | Kırk        | Kırk                        | չառասուն (Charasun)      | Cha-ra-sun                   | Kırk             | Kırk                             |
+| Fifty       | Elli        | El-lee                     | հիսուն (Hisun)         | Hee-sun                     | Elli            | El-lee                           |
+| Sixty       | Altmış      | Alt-mish                   | վաթսուն (Vatsun)       | Vah-tsun                    | Altmış          | Alt-mish                         |
+| Seventy     | Yetmiş      | Yet-mish                   | յոթանասուն (Yotanasun) | Yo-ta-na-sun                | Yetmiş          | Yet-mish                         |
+| Eighty      | Seksen      | Sek-sen                    | ութսուն (Utsun)        | Oot-sun                     | Səksən          | Sek-sen                          |
+| Ninety      | Doksan      | Dok-san                    | իննսուն (Innsun)       | In-sun                      | Doxsan          | Dok-san                          |
 | Hundred     | Yüz         | Yüz                         | հարյուր (Haryur)         | Ha-ryur                      | Yüz              | Yüz                              |
 | Thousand    | Bin         | Been                        | հազար (Hazar)           | Ha-zar                       | Bin              | Been                             |
 
@@ -177,4 +182,68 @@ This guide provides essential English words and phrases along with their transla
 |-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
 | Cheap       | Ucuz        | U-juz                       | մատչելի (Matcheli)       | Mat-che-li                    | Ucuz             | U-juz                             |
 | Expensive   | Pahalı      | Pa-ha-lı                    | արժեք (Arjhekavor)        | Arj-he-ka-vor                 | Bahalı           | Ba-ha-lı                          |
+## **15. Identity**
 
+| **English**       | **Turkish**                     | **Pronunciation (Turkish)**                   | **Armenian (Eastern)**                          | **Pronunciation (Armenian)**                   | **Azerbaijani**                | **Pronunciation (Azerbaijani)**                |
+|-------------------|---------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------|------------------------------------------------|
+| Name              | İsim                            | Ee-sim                                         | Անուն (Anun)                                    | A-nun                                          | Ad                             | Ad                                              |
+| Chinese           | Çinli                           | Cheen-lee                                      | Չինացի (Chinatsi)                               | Chee-na-tsee                                   | Çinli                          | Cheen-lee                                       |
+| United States     | Amerika Birleşik Devletleri     | Ah-meh-ree-kah Beer-leh-sheek Dev-let-leh-ree  | Ամերիկայի Միացյալ Նահանգներ (Amerikayi Miatsyal Nahangner) | Ah-meh-ree-ka-yee Mee-ahts-yal Nah-hahng-ner  | Amerika Birləşmiş Ştatları     | Ah-meh-ree-kah Beer-lesh-meesh Shtaht-lar      |
+
+# **Introduction to the Turkish Alphabet**
+
+The Turkish alphabet consists of **29 letters**, adapted from the Latin script. It was introduced in 1928 to replace the Ottoman Turkish script. The alphabet includes several unique letters and excludes the letters **Q**, **W**, and **X**. Turkish is a **phonetic language**, meaning words are pronounced as they are written.
+
+### **Unique Features**
+1. **Vowel Harmony**: Vowels in a word must harmonize (front/back and rounded/unrounded).
+2. **Agglutinative Language**: Suffixes are added to root words, often changing their meaning or grammatical role.
+3. **Distinct Letters**: Turkish includes additional letters to represent specific sounds not found in English.
+
+### **Turkish Alphabet**
+| **Letter** | **Pronunciation in English**    |
+|------------|---------------------------------|
+| A          | "a" as in **father**            |
+| B          | "b" as in **boy**               |
+| C          | "j" as in **jump**              |
+| Ç          | "ch" as in **church**           |
+| D          | "d" as in **dog**               |
+| E          | "e" as in **get**               |
+| F          | "f" as in **fun**               |
+| G          | "g" as in **go**                |
+| Ğ          | Silent or lengthens preceding vowel |
+| H          | "h" as in **hat**               |
+| I          | "uh" as in **sofa**             |
+| İ          | "ee" as in **see**              |
+| J          | "zh" as in **measure**          |
+| K          | "k" as in **kite**              |
+| L          | "l" as in **love**              |
+| M          | "m" as in **man**               |
+| N          | "n" as in **name**              |
+| O          | "o" as in **low**               |
+| Ö          | "uh" with rounded lips          |
+| P          | "p" as in **pen**               |
+| R          | Rolled slightly, like Spanish **r** |
+| S          | "s" as in **snake**             |
+| Ş          | "sh" as in **shoe**             |
+| T          | "t" as in **top**               |
+| U          | "oo" as in **food**             |
+| Ü          | "ee" with rounded lips          |
+| V          | "v" as in **van**               |
+| Y          | "y" as in **yes**               |
+| Z          | "z" as in **zoo**               |
+
+---
+
+# **How to Pronounce Unique Turkish Letters**
+
+Turkish has 7 letters that are not in the English alphabet. Here’s how to pronounce them:
+
+| **Letter** | **Pronunciation**              | **Example**         | **Pronunciation of Example** |
+|------------|--------------------------------|---------------------|-----------------------------|
+| Ç          | "ch" as in **church**          | **Çay** (tea)       | **ch-eye**                 |
+| Ğ          | Silent, stretches the vowel    | **Dağ** (mountain)  | **daah**                   |
+| I          | "uh" like in **sofa**          | **Ilık** (warm)     | **uh-luhk**                |
+| İ          | "ee" as in **see**             | **İpek** (silk)     | **ee-pek**                 |
+| Ö          | "uh" with rounded lips         | **Göz** (eye)       | **guhz**                   |
+| Ş          | "sh" as in **shoe**            | **Şeker** (sugar)   | **sheh-kehr**              |
+| Ü          | "ee" with rounded lips         | **Gül** (rose)      | **gyül**                   |
