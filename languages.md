@@ -16,8 +16,7 @@ This guide provides essential English words and phrases along with their transla
 |---------------|----------------------|-----------------------------|-----------------------------------|------------------------------|----------------------|---------------------------------------------|
 | Hello         | Merhaba              | Mehr-hah-bah                | Բարեւ (Barev)                | Ba-rev                       | Salam                | Sa-lam                                      |
 | Goodbye       | Hoşça kal          | Hosh-cha kal               | Ցտեսություն (Tstesutyun)       | Ts-te-su-tyun                | Sağ ol                      | Sah ol                                      |
-| Thank you for your welcoming | Hoş bulduk | Hosh bul-duk | Շնորհակալություն ձեր ողջույնի համար (Shnorhakalutyun dzer voghjuyni hamar) | Shnor-ha-ka-lu-tyun dzer vo-ghju-yni ha-mar | Qonaqpərvərliyiniz üçün təşəkkür edirəm | Qo-naq-per-ver-li-yi-niz ü-chün te-shek-kur eh-dee-rem |
-| Cheers | Şerefe | Sheh-reh-feh | Կենացդ (Kenatsd) | Ke-nats-d | Sağlığınıza | Sah-lı-ğı-nı-za |
+| Thank you     | Teşekkür ederim      | Te-she-kur eh-deh-reem      | Շնորհակալություն (Shnorhakalutyun)   | Shnor-ha-ka-lu-tyun          | Təşəkkür edirəm      | Te-shek-kur eh-dee-rem                      |
 | Excuse me     | Afedersiniz          | Ah-feh-der-see-neez         | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
 | Yes           | Evet                 | Eh-vet                      | Այո (Ayo)                          | Ah-yo                        | Bəli                 | Beh-li                                      |
 | No            | Hayır                | Hi-yor                      | Ոչ (Voch)                          | Voch                         | Xeyr                 | Kh-eyr                                      |
@@ -25,8 +24,39 @@ This guide provides essential English words and phrases along with their transla
 | Thank you     | Teşekkür ederim      | Te-she-kur eh-deh-reem      | Շնորհակալություն (Shnorhakalutyun)   | Shnor-ha-ka-lu-tyun          | Təşəkkür edirəm      | Te-shek-kur eh-dee-rem                      |
 | Sorry         | Özür dilerim         | O-zur di-leh-reem            | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
 | I don’t understand.  | Anlamıyorum.                                | An-la-mı-yo-rum                   | Չեմ հասկանում (Chem haskanum)                | Chem has-ka-num                                  | Mən başa düşmürəm                     | Mən ba-şa düş-mü-rəm                                        |
+| Thank you for your welcoming | Hoş bulduk | Hosh bul-duk | Շնորհակալություն ձեր ողջույնի համար (Shnorhakalutyun dzer voghjuyni hamar) | Shnor-ha-ka-lu-tyun dzer vo-ghju-yni ha-mar | Qonaqpərvərliyiniz üçün təşəkkür edirəm | Qo-naq-per-ver-li-yi-niz ü-chün te-shek-kur eh-dee-rem |
 | Help | Yardım | Yar-dım | Օգնություն (Ognutyun) | Og-nu-tyun | Kömək | Kö-mək |
----
+| Where is the bathroom?| Banyo nerede?       | Ban-yo ne-re-de             | Լոգարանը որտեղ է? (Logarany vortegh e?) | Lo-ga-ra-ny vor-tegh e?     | Hamam/Tualet haradadır? | Ha-mam/Too-a-let ha-ra-da-dır? |
+| English | İngilizce | In-gee-leez-je | Անգլերեն (Angleren) | Ang-le-ren | İngilis | In-gee-lees |
+| Where is X? | X nerede? | X ne-re-de? | X որտեղ է? (X vortegh e?) | X vor-tegh e? | X haradadır? | X ha-ra-da-dır? |
+| Check please | Hesap lütfen | He-sap lut-fen | Հաշիվը խնդրում եմ (Hashivy khndrum em) | Ha-shi-vy khun-drum em | Hesab verin zəhmət olmasa | He-sab ve-rin zeh-met ol-ma-sa |
+| Menu | Menü | Me-nü | Ճաշացանկ (Chashatsank) | Cha-sha-tsank | Menyu | Me-nyu |
+| I would like X | X istiyorum | X is-ti-yo-rum | Ես ուզում եմ X (Yes uzum em X) | Yes u-zum em X | Mən X istəyirəm | Mən X is-te-yi-rəm |
+| Cheers | Şerefe | Sheh-reh-feh | Կենացդ (Kenatsd) | Ke-nats-d | Sağlığınıza | Sah-lı-ğı-nı-za |
+
+
+## **Identity**
+
+| **English**       | **Turkish**                     | **Pronunciation (Turkish)**                   | **Armenian (Eastern)**                          | **Pronunciation (Armenian)**                   | **Azerbaijani**                | **Pronunciation (Azerbaijani)**                |
+|-------------------|---------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------|------------------------------------------------|
+| Name              | İsim                            | Ee-sim                                         | Անուն (Anun)                                    | A-nun                                          | Ad                             | Ad                                              |
+| Chinese           | Çinli                           | Cheen-lee                                      | Չինացի (Chinatsi)                               | Chee-na-tsee                                   | Çinli                          | Cheen-lee                                       |
+| United States     | Amerika Birleşik Devletleri     | Ah-meh-ree-kah Beer-leh-sheek Dev-let-leh-ree  | Ամերիկայի Միացյալ Նահանգներ (Amerikayi Miatsyal Nahangner) | Ah-meh-ree-ka-yee Mee-ahts-yal Nah-hahng-ner  | Amerika Birləşmiş Ştatları     | Ah-meh-ree-kah Beer-lesh-meesh Shtaht-lar      |
+| You               | Sen                             | Sen                                          | Դու (Du)                                    | Du                                            | Sən                             | Sən                                              |
+| Me                | Ben                             | Ben                                          | Ես (Yes)                                    | Yes                                           | Mən                             | Mən                                              |
+| I am              | Ben                             | Ben                                          | Ես եմ (Yes em)                                    | Yes em                                          | Mənəm                             | Mən-əm                                              |
+
+## **Price Indicators**
+
+| **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
+|-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
+| Cheap       | Ucuz        | U-juz                       | մատչելի (Matcheli)       | Mat-che-li                    | Ucuz             | U-juz                             |
+| Expensive   | Pahalı      | Pa-ha-lı                    | արժեք (Arjhekavor)        | Arj-he-ka-vor                 | Bahalı           | Ba-ha-lı                          |
+| Free        | Ücretsiz    | Üc-retsiz                   | անվճար (Anvchar)       | An-vchar                     | Pulsuz           | Pul-suz                           |
+| How much?   | Ne kadar? | Ne ka-dar | ինչքա՞ն (Inch’kan) | Inch’kan | Nə qədər? | Ne qə-dər |
+| Can you give a discount? | İndirim yapar mısınız?   | In-dee-reem ya-par mı-sı-nız | Զեղչ կանե՞ք (Zeghch kanek’) | Zeghch ka-nek’              | Endirim edə bilərsiniz? | En-di-rim e-də bi-lər-si-niz?   |
+
+
 
 ## Basic Numbers
 
@@ -43,15 +73,7 @@ This guide provides essential English words and phrases along with their transla
 | Seven       | Yedi        | Ye-dee                      | յոթ (Yot)               | Yot                          | Yeddi            | Ye-dee                            |
 | Eight       | Sekiz       | Seh-keez                    | ութ (Ut)                | Ut                           | Səkkiz           | Seh-keez                          |
 | Nine        | Dokuz       | Do-kooz                     | ինը (Ini)               | Ee-nee                       | Doqquz           | Do-kooz                           |
-| Ten         | On          | On                          | տաս (Tas)               | Tas                          | On               | On                                |
-
-### **Additional Numbers**
-
-| **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
-|-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
-| Eleven      | On bir      | On beer                     | տասնմեկ (Tasnmek)        | Tasn-mek                     | On bir           | On beer                          |
-| Twelve      | On iki      | On ee-kee                   | տասներկու (Tasnerku)      | Tas-ner-ku                   | On iki           | On ee-kee                        |
-| Thirteen    | On üç       | On ooch                     | տասներեք (Tasnererek)     | Tas-ner-rek                  | On üç            | On ooch                          |
+| Ten         | On          | On                          | տաս (Tas)               | Tas                          | On               | On                                |                     |
 | Twenty      | Yirmi       | Yer-mee                     | քսան (Ksan)             | Ksan                         | Yirmi            | Yer-mee                          |
 | Thirty      | Otuz        | Oh-tuz                      | Երեսուն (Eresun)         | E-re-su-n                    | Otuz             | Oh-tuz                           |
 | Forty       | Kırk        | Kırk                        | չառասուն (Charasun)      | Cha-ra-sun                   | Kırk             | Kırk                             |
@@ -63,24 +85,19 @@ This guide provides essential English words and phrases along with their transla
 | Hundred     | Yüz         | Yüz                         | հարյուր (Haryur)         | Ha-ryur                      | Yüz              | Yüz                              |
 | Thousand    | Bin         | Been                        | հազար (Hazar)           | Ha-zar                       | Bin              | Been                             |
 
----
 
-## **Time/Cost**
 
-### **Basic Terms**
+### **Time**
 
 | **English** | **Turkish**     | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
 |-------------|-----------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
 | Hour        | Saat            | Sah-at                      | ժամ (Zham)              | Zham                         | Saat             | Sah-at                            |
-| Minute      | Dakika          | Da-kee-ka                   | րոպե (Rope)             | Ro-pe                        | Dəqiqə           | Deh-dee-ka                        |
 | Morning     | Sabah           | Sa-bah                      | առավոտ (Aravot)         | A-ra-vot                     | Səhər            | Sa-hər                            |
 | Afternoon   | Öğleden sonra   | Öh-le-den so-nra            | կեսօրվա (Kesorova)      | Ke-so-ro-va                  | Günorta          | Gyu-nohr-ta                       |
 | Evening     | Akşam           | Ak-sham                     | երեկոյան (Erekoyan)      | E-re-ko-yan                  | Axşam            | Ak-sham                           |
 | Night       | Gece            | Ge-je                       | գիշեր (Gisher)          | Gi-sher                      | Gecə             | Ge-je                             |
+| At what time?     | Saat kaçta?           | Sah-at kach-ta              | Ժամը քանի՞սին (Zhamy kanisin) | Zha-my ka-ni-sin            | Saat neçədə?     | Sah-at ne-che-de                |
 
-
-
----
 
 ## **Logistics**
 
@@ -97,8 +114,7 @@ This guide provides essential English words and phrases along with their transla
 | Market      | Pazar       | Pa-zar                      | Մարկետ (Market)         | Market                        | Bazar            | Ba-zar      
 | Hotel       | Otel        | O-tel                       | Հյուրանոց (Hyuranots)    | Hyu-ra-nots                   | Otel             | O-tel                             |
 | Passport    | Pasaport    | Pa-sa-port                  | անձնագիր (Andznagir)     | Andz-na-gir                   | Pasport          | Pa-sa-port                        |
-
----
+| Money       | Para        | Pa-ra                      | փող (Pogh)             | Pogh                         | Pul              | Pul                               |
 
 ## **Food**
 
@@ -107,7 +123,8 @@ This guide provides essential English words and phrases along with their transla
 | Food        | Yemek       | Ye-mek                      | սնունդ (Snund)           | Snu-nd                        | Yemək            | Ye-mek                            |
 | Water       | Su          | Soo                         | ջուր (Jur)               | Jur                           | Su               | Soo                               |
 | Alcohol     | Alkol       | Al-kol                      | ալկոհոլ (Alkohol)        | Al-ko-hol                     | Alkoqol          | Al-ko-qol                         |
-
+| Coffee      | Kahve       | Kah-veh                     | սուրճ (Surj)             | Surj                          | Qəhvə            | Qəh-və                            |
+| Tea         | Çay         | Ch-eye                      | թեյ (Tey)               | Tey                           | Çay              | Ch-eye                            |
 ---
 
 ## **Distance**
@@ -143,26 +160,6 @@ This guide provides essential English words and phrases along with their transla
 | Why         | Neden       | Ne-den                      | ինչո՞ղ (Inch'tu)         | Inch'tu                       | Niyə             | Ni-yə                                     |
 | How         | Nasıl       | Na-sıl                      | ինչպես (Inchpes)         | Inch-pes                      | Necə             | Ne-cə                                     |
 | Who         | Kim         | Kim                         | ով (Ov)                  | Ov                            | Kim              | Kim                                       |
-
----
-
-## **Price Indicators**
-
-| **English** | **Turkish** | **Pronunciation (Turkish)** | **Armenian (Eastern)** | **Pronunciation (Armenian)** | **Azerbaijani** | **Pronunciation (Azerbaijani)** |
-|-------------|-------------|-----------------------------|------------------------|------------------------------|------------------|-----------------------------------|
-| Cheap       | Ucuz        | U-juz                       | մատչելի (Matcheli)       | Mat-che-li                    | Ucuz             | U-juz                             |
-| Expensive   | Pahalı      | Pa-ha-lı                    | արժեք (Arjhekavor)        | Arj-he-ka-vor                 | Bahalı           | Ba-ha-lı                          |
-| Free        | Ücretsiz    | Üc-retsiz                   | անվճար (Anvchar)       | An-vchar                     | Pulsuz           | Pul-suz                           |
-
-
-## **Identity**
-
-| **English**       | **Turkish**                     | **Pronunciation (Turkish)**                   | **Armenian (Eastern)**                          | **Pronunciation (Armenian)**                   | **Azerbaijani**                | **Pronunciation (Azerbaijani)**                |
-|-------------------|---------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------|------------------------------------------------|
-| Name              | İsim                            | Ee-sim                                         | Անուն (Anun)                                    | A-nun                                          | Ad                             | Ad                                              |
-| Chinese           | Çinli                           | Cheen-lee                                      | Չինացի (Chinatsi)                               | Chee-na-tsee                                   | Çinli                          | Cheen-lee                                       |
-| United States     | Amerika Birleşik Devletleri     | Ah-meh-ree-kah Beer-leh-sheek Dev-let-leh-ree  | Ամերիկայի Միացյալ Նահանգներ (Amerikayi Miatsyal Nahangner) | Ah-meh-ree-ka-yee Mee-ahts-yal Nah-hahng-ner  | Amerika Birləşmiş Ştatları     | Ah-meh-ree-kah Beer-lesh-meesh Shtaht-lar      |
-
 # **Introduction to the Turkish Alphabet**
 
 The Turkish alphabet consists of **29 letters**, adapted from the Latin script. It was introduced in 1928 to replace the Ottoman Turkish script. The alphabet includes several unique letters and excludes the letters **Q**, **W**, and **X**. Turkish is a **phonetic language**, meaning words are pronounced as they are written.
