@@ -125,7 +125,6 @@ This guide provides essential English words and phrases along with their transla
 | Alcohol     | Alkol       | Al-kol                      | ալկոհոլ (Alkohol)        | Al-ko-hol                     | Alkoqol          | Al-ko-qol                         |
 | Coffee      | Kahve       | Kah-veh                     | սուրճ (Surj)             | Surj                          | Qəhvə            | Qəh-və                            |
 | Tea         | Çay         | Ch-eye                      | թեյ (Tey)               | Tey                           | Çay              | Ch-eye                            |
----
 
 ## **Distance**
 
@@ -138,7 +137,6 @@ This guide provides essential English words and phrases along with their transla
 | Right       | Sağ         | Sah                         | Օջախ (Ojakh)                          | Ojakh                         | Sağ              | Sah                               |
 | Straight    | Düz         | Düz                         | հասկանալի ուղու (Haskanali ugu)           | Has-ka-na-li u-gu             | Düz gedin        | Düz                               |
 | Taxi        | Taksi       | Tak-si                      | Տաքսի (Taksi)                          | Tak-si                        | Taksi            | Tak-si                            |
----
 
 ## **Technology**
 
@@ -147,8 +145,6 @@ This guide provides essential English words and phrases along with their transla
 | Phone       | Telefon     | Te-le-fon                   | հեռախոս (Herrakhos)      | Her-ra-khos                  | Telefon          | Te-le-fon                           |
 | Internet    | İnternet    | İn-ter-net                  | Ինտերնետ (Internet)      | İn-ter-net                    | İnternet         | İn-ter-net                          |
 | Battery     | Pil         | Pil                         | բատարիա (Bataria)         | Ba-ta-ri-a                   | Batareya         | Ba-ta-re-ya                         |
-
----
 
 ## **Question Words**
 
@@ -160,6 +156,7 @@ This guide provides essential English words and phrases along with their transla
 | Why         | Neden       | Ne-den                      | ինչո՞ղ (Inch'tu)         | Inch'tu                       | Niyə             | Ni-yə                                     |
 | How         | Nasıl       | Na-sıl                      | ինչպես (Inchpes)         | Inch-pes                      | Necə             | Ne-cə                                     |
 | Who         | Kim         | Kim                         | ով (Ov)                  | Ov                            | Kim              | Kim                                       |
+
 # **Introduction to the Turkish Alphabet**
 
 The Turkish alphabet consists of **29 letters**, adapted from the Latin script. It was introduced in 1928 to replace the Ottoman Turkish script. The alphabet includes several unique letters and excludes the letters **Q**, **W**, and **X**. Turkish is a **phonetic language**, meaning words are pronounced as they are written.
