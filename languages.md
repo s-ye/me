@@ -23,6 +23,7 @@ This guide provides essential English words and phrases along with their transla
 | Please        | Lütfen               | Lut-fen                     | Խնդրում եմ (Khndrum em)              | Khun-droom em                | Zəhmət olmasa        | Zeh-met ol-ma-sa                            |
 | Thank you     | Teşekkür ederim      | Te-she-kur eh-deh-reem      | Շնորհակալություն (Shnorhakalutyun)   | Shnor-ha-ka-lu-tyun          | Təşəkkür edirəm      | Te-shek-kur eh-dee-rem                      |
 | Sorry         | Özür dilerim         | O-zur di-leh-reem            | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
+| Sorry         | Üzgünüm              | Üz-gü-nüm                | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
 | I don’t understand.  | Anlamıyorum.                                | An-la-mı-yo-rum                   | Չեմ հասկանում (Chem haskanum)                | Chem has-ka-num                                  | Mən başa düşmürəm                     | Mən ba-şa düş-mü-rəm                                        |
 | Thank you for your welcoming | Hoş bulduk | Hosh bul-duk | Շնորհակալություն ձեր ողջույնի համար (Shnorhakalutyun dzer voghjuyni hamar) | Shnor-ha-ka-lu-tyun dzer vo-ghju-yni ha-mar | Qonaqpərvərliyiniz üçün təşəkkür edirəm | Qo-naq-per-ver-li-yi-niz ü-chün te-shek-kur eh-dee-rem |
 | Help | Yardım | Yar-dım | Օգնություն (Ognutyun) | Og-nu-tyun | Kömək | Kö-mək |
@@ -156,61 +157,3 @@ This guide provides essential English words and phrases along with their transla
 | Why         | Neden       | Ne-den                      | ինչո՞ղ (Inch'tu)         | Inch'tu                       | Niyə             | Ni-yə                                     |
 | How         | Nasıl       | Na-sıl                      | ինչպես (Inchpes)         | Inch-pes                      | Necə             | Ne-cə                                     |
 | Who         | Kim         | Kim                         | ով (Ov)                  | Ov                            | Kim              | Kim                                       |
-
-# **Introduction to the Turkish Alphabet**
-
-The Turkish alphabet consists of **29 letters**, adapted from the Latin script. It was introduced in 1928 to replace the Ottoman Turkish script. The alphabet includes several unique letters and excludes the letters **Q**, **W**, and **X**. Turkish is a **phonetic language**, meaning words are pronounced as they are written.
-
-### **Unique Features**
-1. **Vowel Harmony**: Vowels in a word must harmonize (front/back and rounded/unrounded).
-2. **Agglutinative Language**: Suffixes are added to root words, often changing their meaning or grammatical role.
-3. **Distinct Letters**: Turkish includes additional letters to represent specific sounds not found in English.
-
-### **Turkish Alphabet**
-| **Letter** | **Pronunciation in English**    |
-|------------|---------------------------------|
-| A          | "a" as in **father**            |
-| B          | "b" as in **boy**               |
-| C          | "j" as in **jump**              |
-| Ç          | "ch" as in **church**           |
-| D          | "d" as in **dog**               |
-| E          | "e" as in **get**               |
-| F          | "f" as in **fun**               |
-| G          | "g" as in **go**                |
-| Ğ          | Silent or lengthens preceding vowel |
-| H          | "h" as in **hat**               |
-| I          | "uh" as in **sofa**             |
-| İ          | "ee" as in **see**              |
-| J          | "zh" as in **measure**          |
-| K          | "k" as in **kite**              |
-| L          | "l" as in **love**              |
-| M          | "m" as in **man**               |
-| N          | "n" as in **name**              |
-| O          | "o" as in **low**               |
-| Ö          | "uh" with rounded lips          |
-| P          | "p" as in **pen**               |
-| R          | Rolled slightly, like Spanish **r** |
-| S          | "s" as in **snake**             |
-| Ş          | "sh" as in **shoe**             |
-| T          | "t" as in **top**               |
-| U          | "oo" as in **food**             |
-| Ü          | "ee" with rounded lips          |
-| V          | "v" as in **van**               |
-| Y          | "y" as in **yes**               |
-| Z          | "z" as in **zoo**               |
-
----
-
-# **How to Pronounce Unique Turkish Letters**
-
-Turkish has 7 letters that are not in the English alphabet. Here’s how to pronounce them:
-
-| **Letter** | **Pronunciation**              | **Example**         | **Pronunciation of Example** |
-|------------|--------------------------------|---------------------|-----------------------------|
-| Ç          | "ch" as in **church**          | **Çay** (tea)       | **ch-eye**                 |
-| Ğ          | Silent, stretches the vowel    | **Dağ** (mountain)  | **daah**                   |
-| I          | "uh" like in **sofa**          | **Ilık** (warm)     | **uh-luhk**                |
-| İ          | "ee" as in **see**             | **İpek** (silk)     | **ee-pek**                 |
-| Ö          | "uh" with rounded lips         | **Göz** (eye)       | **guhz**                   |
-| Ş          | "sh" as in **shoe**            | **Şeker** (sugar)   | **sheh-kehr**              |
-| Ü          | "ee" with rounded lips         | **Gül** (rose)      | **gyül**                   |
