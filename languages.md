@@ -23,17 +23,22 @@ This guide provides essential English words and phrases along with their transla
 | Please        | Lütfen               | Lut-fen                     | Խնդրում եմ (Khndrum em)              | Khun-droom em                | Zəhmət olmasa        | Zeh-met ol-ma-sa                            |
 | Thank you     | Teşekkür ederim      | Te-she-kur eh-deh-reem      | Շնորհակալություն (Shnorhakalutyun)   | Shnor-ha-ka-lu-tyun          | Təşəkkür edirəm      | Te-shek-kur eh-dee-rem                      |
 | Sorry         | Özür dilerim         | O-zur di-leh-reem            | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
-| Sorry         | Üzgünüm              | Üz-gü-nüm                | Ներեցեք (Neretsekh)                | Ne-rets-ehkh                  | Bağışlayın           | Ba-ghish-la-yin                              |
+| Good morning | Günaydın | Gu-na-y-din | Բարի լույս (Bari luys) | Ba-ri luys | Sabahınız xeyir | Sa-ba-hı-nız khe-yir |
+| I understand | Anlıyorum | An-lı-yo-rum | Հասկանում եմ (Haskanum em) | Has-ka-num em | Başa düşürəm | Ba-şa düş-ü-rəm |
 | I don’t understand.  | Anlamıyorum.                                | An-la-mı-yo-rum                   | Չեմ հասկանում (Chem haskanum)                | Chem has-ka-num                                  | Mən başa düşmürəm                     | Mən ba-şa düş-mü-rəm                                        |
 | Thank you for your welcoming | Hoş bulduk | Hosh bul-duk | Շնորհակալություն ձեր ողջույնի համար (Shnorhakalutyun dzer voghjuyni hamar) | Shnor-ha-ka-lu-tyun dzer vo-ghju-yni ha-mar | Qonaqpərvərliyiniz üçün təşəkkür edirəm | Qo-naq-per-ver-li-yi-niz ü-chün te-shek-kur eh-dee-rem |
 | Help | Yardım | Yar-dım | Օգնություն (Ognutyun) | Og-nu-tyun | Kömək | Kö-mək |
 | Where is the bathroom?| Banyo nerede?       | Ban-yo ne-re-de             | Լոգարանը որտեղ է? (Logarany vortegh e?) | Lo-ga-ra-ny vor-tegh e?     | Hamam/Tualet haradadır? | Ha-mam/Too-a-let ha-ra-da-dır? |
 | English | İngilizce | In-gee-leez-je | Անգլերեն (Angleren) | Ang-le-ren | İngilis | In-gee-lees |
 | Where is X? | X nerede? | X ne-re-de? | X որտեղ է? (X vortegh e?) | X vor-tegh e? | X haradadır? | X ha-ra-da-dır? |
+| What is this? | Bu nedir? | Boo ne-dir? | Սա ի՞նչ է (Sa inch’ e?) | Sa inch’ e? | Bu nədir? | Bu nə-dir? |
 | Check please | Hesap lütfen | He-sap lut-fen | Հաշիվը խնդրում եմ (Hashivy khndrum em) | Ha-shi-vy khun-drum em | Hesab verin zəhmət olmasa | He-sab ve-rin zeh-met ol-ma-sa |
 | Menu | Menü | Me-nü | Ճաշացանկ (Chashatsank) | Cha-sha-tsank | Menyu | Me-nyu |
 | I would like X | X istiyorum | X is-ti-yo-rum | Ես ուզում եմ X (Yes uzum em X) | Yes u-zum em X | Mən X istəyirəm | Mən X is-te-yi-rəm |
 | Cheers | Şerefe | Sheh-reh-feh | Կենացդ (Kenatsd) | Ke-nats-d | Sağlığınıza | Sah-lı-ğı-nı-za |
+| Entrance    | Giriş       | Gee-rish                    | մուտք (Mutk)            | Mutk                         | Giriş            | Gee-rish                          |
+| Exit | Çıkış | Chık-ış | ելք (Yelk) | Yelk | Çıxış | Chıx-ış |
+
 
 
 ## **Identity**

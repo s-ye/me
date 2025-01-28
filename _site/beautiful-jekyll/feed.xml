@@ -12,14 +12,45 @@
     
     
       <item>
-        <title>Istanbul</title>
+        <title>Vienna</title>
         <description>
           
           
 
-ISIC Card ordered for 20 USD online, good for at least two of the palaces. It is worth using it whenever possible.
-Troy and Gallipoli.
+        </description>
+        <pubDate>Mon, 27 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/me/vienna/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/vienna/</guid>
+      </item>
+    
+      <item>
+        <title>Athens</title>
+        <description>
+          
+          
 
+        </description>
+        <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/me/athens/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/athens/</guid>
+      </item>
+    
+      <item>
+        <title>Turkey</title>
+        <description>
+          
+          The 7 Geographic Regions of Turkey Turkey is divided into 7 geographic regions, defined based on climate, topography, and regional characteristics. These regions highlight the country’s incredible diversity in landscapes, cultures, and history. The 7 Geographic Regions of Turkey Istanbul: The Gateway Between East and West Cappadocia: The Land of...
+        </description>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/me/turkey/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/turkey/</guid>
+      </item>
+    
+      <item>
+        <title>Istanbul</title>
+        <description>
+          
+          Travel insights that may be useful ISIC Card ordered for 20 USD online, good for at least two of the palaces. It is worth using it whenever possible. Historical Drama: Magnificent Century Dish Pronunciation Description Baklava bahk-lah-vah A rich, sweet pastry made of layers of filo filled with chopped nuts...
         </description>
         <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/me/istanbul/</link>
@@ -35,6 +66,29 @@ Troy and Gallipoli.
         <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/me/georgia/</link>
         <guid isPermaLink="true">http://localhost:4000/me/georgia/</guid>
+      </item>
+    
+      <item>
+        <title>Baku</title>
+        <description>
+          
+          The Baku Funicular is a scenic railway connecting the city center to Highland Park, a hilltop spot offering breathtaking views of Baku, the Caspian Sea, and the iconic Flame Towers, which light up spectacularly at night with LED displays symbolizing Azerbaijan’s “Land of Fire” heritage. Highland Park is also home...
+        </description>
+        <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/me/baku/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/baku/</guid>
+      </item>
+    
+      <item>
+        <title>Armenia</title>
+        <description>
+          
+          
+
+        </description>
+        <pubDate>Sat, 13 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/me/armenia/</link>
+        <guid isPermaLink="true">http://localhost:4000/me/armenia/</guid>
       </item>
     
   </channel>
