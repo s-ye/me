@@ -9,7 +9,7 @@ layout: page
   <iframe src="map_route.html" width="100%" height="500px" style="max-width: 800px; border: none;"></iframe>
 </div>
 <div style="text-align: center;">
-  <strong>Spring 2025: Tour through Central Asia</strong>
+  <strong>Spring 2025: Europe East to West</strong>
 </div>
 
 {% include locations_list.html %}
