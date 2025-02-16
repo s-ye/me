@@ -4,6 +4,10 @@ permalink: /aboutme
 layout: default
 ---
 
+<div style="text-align: center;">
+  <h1>About me</h1>
+</div>
+
 
 I am Chinese American, born in Shanghai and raised in Chicago. I love traveling, lifting weights, running, and riding motorcycles. I also enjoy playing poker and am currently learning Chinese and Spanish. I like American fiction and my favorite author is John Steinbeck. My favorite comedian is Colin Jost.
 

@@ -2,6 +2,10 @@
 title: Travel
 layout: default
 ---
+<div style="text-align: center;">
+  <h1>Travel</h1>
+</div>
+
 
 <!-- Highlighted Countries Map -->
 <div style="text-align: center;">
