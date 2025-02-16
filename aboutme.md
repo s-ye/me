@@ -20,6 +20,7 @@ I am Chinese American, born in Shanghai and raised in Chicago. I love traveling,
     <li><a href="https://sholalkere.github.io/" target="_blank">Sidhanth Holalkere</a></li>
     <li><a href="https://ferojz.com/" target="_blank">Felix Roz</a></li>
     <li><a href="https://owenoertell.com/" target="_blank">Owen Oertell</a></li>
+    <li><a href="https://sites.google.com/view/isaacbroudy" target = "_blank">Isaac Broudy</a></li>
 </ul>
 
 
