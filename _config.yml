@@ -21,7 +21,9 @@ author: Songyu Ye
 
 navbar-links:
   About Me: "/aboutme"
-  Travel: "/travel"
+  Travel: 
+    - Travel: "/travel"
+    - Winter 25: "/travel/winter25"
   Writing: "/writing"
   Language: "/language"
 
@@ -62,7 +64,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: songyu_travels
+  # instagram: 
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78

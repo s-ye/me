@@ -1,6 +1,46 @@
 [ 
  
 { 
+"title"    : "Reykjavik", 
+"desc"     : "Reykjavik", 
+"category" : "", 
+"url"      : "/me/reykjavik/", 
+"date"     : "February 11, 2025" 
+}, 
+ 
+{ 
+"title"    : "Stockholm", 
+"desc"     : "Stockholm", 
+"category" : "", 
+"url"      : "/me/stockholm/", 
+"date"     : "February  7, 2025" 
+}, 
+ 
+{ 
+"title"    : "Paris", 
+"desc"     : "Paris", 
+"category" : "", 
+"url"      : "/me/paris/", 
+"date"     : "February  3, 2025" 
+}, 
+ 
+{ 
+"title"    : "Rome", 
+"desc"     : "Rome", 
+"category" : "", 
+"url"      : "/me/rome/", 
+"date"     : "February  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Tirana", 
+"desc"     : "Tirana", 
+"category" : "", 
+"url"      : "/me/tirana/", 
+"date"     : "January 30, 2025" 
+}, 
+ 
+{ 
 "title"    : "Vienna", 
 "desc"     : "Vienna", 
 "category" : "", 
@@ -17,42 +57,10 @@
 }, 
  
 { 
-"title"    : "Turkey", 
-"desc"     : "Turkey", 
-"category" : "", 
-"url"      : "/me/turkey/", 
-"date"     : "January 13, 2025" 
-}, 
- 
-{ 
 "title"    : "Istanbul", 
 "desc"     : "Istanbul", 
 "category" : "", 
 "url"      : "/me/istanbul/", 
-"date"     : "January 13, 2024" 
-}, 
- 
-{ 
-"title"    : "Georgia", 
-"desc"     : "Georgia", 
-"category" : "", 
-"url"      : "/me/georgia/", 
-"date"     : "January 13, 2024" 
-}, 
- 
-{ 
-"title"    : "Baku", 
-"desc"     : "Baku", 
-"category" : "", 
-"url"      : "/me/baku/", 
-"date"     : "January 13, 2024" 
-}, 
- 
-{ 
-"title"    : "Armenia", 
-"desc"     : "Armenia", 
-"category" : "", 
-"url"      : "/me/armenia/", 
 "date"     : "January 13, 2024" 
 }, 
  
@@ -82,6 +90,14 @@
 }, 
  
 { 
+"title"    : "Travel", 
+"desc"     : "Travel", 
+"category" : "page", 
+"url"      : "/me/travel/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Home", 
 "desc"     : "Home", 
 "category" : "page", 
@@ -98,6 +114,14 @@
 }, 
  
 { 
+"title"    : "Literature", 
+"desc"     : "Literature", 
+"category" : "page", 
+"url"      : "/me/literature", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
@@ -106,18 +130,18 @@
 }, 
  
 { 
-"title"    : "Travel", 
-"desc"     : "Travel", 
-"category" : "page", 
-"url"      : "/me/travel", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Language", 
 "desc"     : "Language", 
 "category" : "page", 
 "url"      : "/me/turkish_grammar", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Winter 2025 Trip", 
+"desc"     : "Winter 2025 Trip", 
+"category" : "page", 
+"url"      : "/me/travel/winter25/", 
 "date"     : "January 1, 1970" 
 }, 
  

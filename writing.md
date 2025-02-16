@@ -1,7 +1,7 @@
 ---
 title: Writing
 permalink: /writing
-layout: page
+layout: default
 ---
 I was employed by Professor Allen Knutson and Professor Tara Holm (DMS-1711317) in the Spring of 2024 as a research assistant working on some problems in toric geometry. I have some notes about moment maps and equivariant cohomology in toric geometry which you can find [here](https://raw.githubusercontent.com/s-ye/tex/main/senior_thesis.pdf).
 
