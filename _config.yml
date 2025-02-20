@@ -23,7 +23,9 @@ navbar-links:
   About Me: "/aboutme"
   Travel: 
     - Travel: "/travel"
-    - Winter 25: "/travel/winter25"
+    - Winter 25: "/travel/winter24"
+    - Summer 24: "/travel/summer24"
+    - Winter 24: "/travel/winter23"
   Writing: "/writing"
   Language: "/language"
 

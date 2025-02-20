@@ -90,18 +90,18 @@
 }, 
  
 { 
-"title"    : "Travel", 
-"desc"     : "Travel", 
-"category" : "page", 
-"url"      : "/me/travel/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Home", 
 "desc"     : "Home", 
 "category" : "page", 
 "url"      : "/me/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Travel", 
+"desc"     : "Travel", 
+"category" : "page", 
+"url"      : "/me/travel/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -122,6 +122,14 @@
 }, 
  
 { 
+"title"    : "Summer 2024 Trip", 
+"desc"     : "Summer 2024 Trip", 
+"category" : "page", 
+"url"      : "/me/travel/summer24/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
@@ -138,10 +146,18 @@
 }, 
  
 { 
+"title"    : "Winter 2024 Trip", 
+"desc"     : "Winter 2024 Trip", 
+"category" : "page", 
+"url"      : "/me/travel/winter23/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Winter 2025 Trip", 
 "desc"     : "Winter 2025 Trip", 
 "category" : "page", 
-"url"      : "/me/travel/winter25/", 
+"url"      : "/me/travel/winter24/", 
 "date"     : "January 1, 1970" 
 }, 
  
