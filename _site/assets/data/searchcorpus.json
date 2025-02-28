@@ -66,18 +66,18 @@
  
  
 { 
-"title"    : "About me", 
-"desc"     : "About me", 
-"category" : "page", 
-"url"      : "/me/beautiful-jekyll/aboutme/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "About Me", 
 "desc"     : "About Me", 
 "category" : "page", 
 "url"      : "/me/aboutme", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "About me", 
+"desc"     : "About me", 
+"category" : "page", 
+"url"      : "/me/beautiful-jekyll/aboutme/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -90,18 +90,18 @@
 }, 
  
 { 
-"title"    : "Home", 
-"desc"     : "Home", 
-"category" : "page", 
-"url"      : "/me/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Travel", 
 "desc"     : "Travel", 
 "category" : "page", 
 "url"      : "/me/travel/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Home", 
+"desc"     : "Home", 
+"category" : "page", 
+"url"      : "/me/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -154,10 +154,18 @@
 }, 
  
 { 
-"title"    : "Winter 2025 Trip", 
-"desc"     : "Winter 2025 Trip", 
+"title"    : "Winter 2024 Trip", 
+"desc"     : "Winter 2024 Trip", 
 "category" : "page", 
 "url"      : "/me/travel/winter24/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Workout", 
+"desc"     : "Workout", 
+"category" : "page", 
+"url"      : "/me/workout", 
 "date"     : "January 1, 1970" 
 }, 
  

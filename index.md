@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="me-in-red.jpg" width="250" height="auto" style="margin-right: 20px; float: left;" alt="Profile Picture" />
+    <img src="me-in-iceland.jpg" width="250" height="auto" style="margin-right: 20px; float: left;" alt="Profile Picture" />
     <div>
         <h2>Hello!</h2>
         <p>I'm an incoming graduate student interested in algebraic geometry and representation theory. </p>
