@@ -4,9 +4,9 @@ permalink: /language
 layout: default
 ---
 
-# Essential Travel Phrases
+# Travel Phrases
 
-This guide provides essential English words and phrases along with their translations in **Turkish**. I will update with more languages as needed, but the necessary phrases remain the same. Each language includes a separate pronunciation column to aid in accurate learning and usage. 
+This guide provides English words and phrases along with their translations in **Turkish**. I will update with more languages as needed, but the necessary phrases remain the same. Each language includes a separate pronunciation column to aid in accurate learning and usage. 
 
 ---
 
