@@ -9,7 +9,7 @@ layout: default
 </div>
 
 
-I am Chinese American, born in Shanghai and raised in Chicago. I love traveling, lifting weights, running, and riding motorcycles. I also enjoy playing poker and am currently learning Chinese and Spanish. I like American fiction and my favorite author is John Steinbeck. 
+I am Chinese American, born in Shanghai and raised in Chicago. I love traveling, going to the gym, running, and riding motorcycles. I also currently learning Chinese and Spanish. I like American fiction and my favorite author is John Steinbeck. 
 
 
 
