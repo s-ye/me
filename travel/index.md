@@ -23,7 +23,7 @@ layout: default
     <div style="line-height: 1.5; font-size: 0.9em;">
       <strong>The Parthenon</strong><br>
       Athens, Greece<br>
-      Winter 2025
+      Winter 2024
     </div>
   </div>
 
