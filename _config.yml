@@ -13,21 +13,10 @@
 title: Songyu Ye (叶松瑜）
 
 # Your name to show in the footer
-author: Songyu Ye
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
-navbar-links:
-  About Me: "/aboutme"
-  Travel: 
-    - Travel: "/travel"
-    - Winter 24: "/travel/winter24"
-    - Summer 24: "/travel/summer24"
-    - Winter 23: "/travel/winter23"
-  Writing: "/writing"
-  Language: "/language"
 
 
 

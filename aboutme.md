@@ -11,8 +11,6 @@ layout: default
 
 I am Chinese American, born in Shanghai and raised in Chicago. I love traveling, going to the gym, running, and riding motorcycles. I also currently learning Chinese and Spanish. I like American fiction and my favorite author is John Steinbeck. 
 
-
-
 <p>Thanks for visiting my site! My friends are doing cool things.</p>
 <ul>
     <li><a href="https://janpaul.pl/" target="_blank">Jan-Paul Vincent Ramos-Dávila</a></li>
