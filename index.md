@@ -13,6 +13,6 @@ permalink: /
         <h2>Hello!</h2>
         <p>I'm an incoming graduate student interested in algebraic geometry and representation theory. </p>
 
-        <p>Previously I was an undergraduate at Cornell University, where I worked closely with Professor Allen Knutson and Professor Tara Holm.</p>
+        <p>Previously I was an undergraduate at Cornell University, where I had the fortune of working with Professor Allen Knutson and Professor Tara Holm.</p>
     </div>
 </div>
