@@ -138,14 +138,6 @@
 }, 
  
 { 
-"title"    : "Language", 
-"desc"     : "Language", 
-"category" : "page", 
-"url"      : "/me/turkish_grammar", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Winter 2024 Trip", 
 "desc"     : "Winter 2024 Trip", 
 "category" : "page", 
@@ -182,6 +174,14 @@
 "desc"     : "Unreleased version", 
 "category" : "page", 
 "url"      : "/me/beautiful-jekyll/CHANGELOG/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "", 
+"desc"     : "", 
+"category" : "page", 
+"url"      : "/me/quotes/", 
 "date"     : "January 1, 1970" 
 } 
  

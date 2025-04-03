@@ -1,0 +1,2 @@
+The proof is by reductio ad absurdum, and reductio ad absurdum, which Euclid loved so much, is one of a mathematician’s finest weapons. It is a far finer gambit than any chess gambit: a chess player may offer the sacrifice of a pawn or even a piece, but a mathematician offers the game. 
+Doing math is akin to unfolding a melody; its first sounds are usually a gift from someone else.
