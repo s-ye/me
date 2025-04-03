@@ -14,6 +14,7 @@ permalink: /
         <p>I'm an incoming graduate student interested in algebraic geometry and representation theory. </p>
         <!-- Kac-Moody groups, their flag varieties, and representation theory -->
         <!-- integrable systems, conformal field theory, and the representation theory of infinite-dimensional Lie algebras -->
+        <!-- Geometry of Flag Varieties in Representation Theory -->
         <p>Previously I was an undergraduate at Cornell University, where I had the fortune of working with Professor Allen Knutson and Professor Tara Holm.</p>
     </div>
 </div>
