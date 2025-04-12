@@ -11,7 +11,7 @@ permalink: /
     </div>
     <div>
         <h2>Hello!</h2>
-        <p>I'm an incoming graduate student interested in algebraic geometry and representation theory. </p>
+        <p>I'm an incoming graduate student at UC Berkeley interested in algebraic geometry and representation theory. </p>
         <!-- Kac-Moody groups, their flag varieties, and representation theory -->
         <!-- integrable systems, conformal field theory, and the representation theory of infinite-dimensional Lie algebras -->
         <!-- Geometry of Flag Varieties in Representation Theory -->
