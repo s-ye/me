@@ -15,6 +15,6 @@ permalink: /
         <!-- Kac-Moody groups, their flag varieties, and representation theory -->
         <!-- integrable systems, conformal field theory, and the representation theory of infinite-dimensional Lie algebras -->
         <!-- Geometry of Flag Varieties in Representation Theory -->
-        <p>Previously I was an undergraduate at Cornell University, where I had the fortune of working with Professor Allen Knutson and Professor Tara Holm.</p>
+        <p>Previously I was an undergraduate at Cornell University, where I had the great fortune of working with Professor Allen Knutson and Professor Tara Holm.</p>
     </div>
 </div>
