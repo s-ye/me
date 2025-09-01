@@ -15,26 +15,25 @@ layout: default
 - Standing rope curls
 
 # Shoulders: side delt, front delt
-- Overhead press
-- Shoulder press
+- Overhead press (front and back)
 - Front raises (cable)
 - Lat raises (side, one hand w/ cable, in front and behind body)
 - Bent over flys
 - Facepulls
 
 # Back: Lats, Traps, Rear delts, Rhomboids
-- Lat pulldown
+- Lat pulldown (front)
 - Bent over row
 - Deadlift
-- T-bar row
 - Reverse flys
 - Iso rows
-- Iso pulldown
+- Straight-Arm Pulldown
+- Pullups
 
 # Abs
 - Russian twists
 - Leg raises
-- Leg wiggles
+- Plank
 - Crunch machine
 
 
