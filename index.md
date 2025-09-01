@@ -11,10 +11,9 @@ permalink: /
     </div>
     <div>
         <h2>Hello!</h2>
-        <p>I'm an incoming graduate student at UC Berkeley broadly interested in algebraic geometry.  </p>
+        <p>I'm a first year graduate student at UC Berkeley broadly interested in the geometry and representation theory of infinite-dimensional Lie algebras. Before that, I was an undergraduate at Cornell University. </p>
         <!-- Kac-Moody groups, their flag varieties, and representation theory -->
         <!-- integrable systems, conformal field theory, and the representation theory of infinite-dimensional Lie algebras -->
         <!-- Geometry of Flag Varieties in Representation Theory -->
-        <p>Previously I was an undergraduate at Cornell University, where I had the great fortune of working with Professor Allen Knutson and Professor Tara Holm.</p>
     </div>
 </div>
