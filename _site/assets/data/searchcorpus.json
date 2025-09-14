@@ -66,6 +66,14 @@
  
  
 { 
+"title"    : "About me", 
+"desc"     : "About me", 
+"category" : "page", 
+"url"      : "/me/beautiful-jekyll/aboutme/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "About Me", 
 "desc"     : "About Me", 
 "category" : "page", 
@@ -74,10 +82,10 @@
 }, 
  
 { 
-"title"    : "About me", 
-"desc"     : "About me", 
+"title"    : "China / Vietnam", 
+"desc"     : "China / Vietnam", 
 "category" : "page", 
-"url"      : "/me/beautiful-jekyll/aboutme/", 
+"url"      : "/me/travel/china/", 
 "date"     : "January 1, 1970" 
 }, 
  
@@ -130,6 +138,14 @@
 }, 
  
 { 
+"title"    : "Summer 2025", 
+"desc"     : "Summer 2025", 
+"category" : "page", 
+"url"      : "/me/travel/summer25/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
@@ -138,8 +154,8 @@
 }, 
  
 { 
-"title"    : "Winter 2024 Trip", 
-"desc"     : "Winter 2024 Trip", 
+"title"    : "Winter 2023 Trip", 
+"desc"     : "Winter 2023 Trip", 
 "category" : "page", 
 "url"      : "/me/travel/winter23/", 
 "date"     : "January 1, 1970" 

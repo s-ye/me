@@ -18,9 +18,8 @@ title: Songyu Ye (叶松瑜）
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#   About Me: "aboutme"
-#   Writing: "writing"
+navbar-links:
+  Writing: "writing"
 
 
 pagination:

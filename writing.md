@@ -4,12 +4,10 @@ permalink: /writing
 layout: default
 ---
 # Writing
-Here I have some expository notes.
 
-[Stacks and Moduli Spaces](https://s-ye.github.io/tex/good-notes/stacks-nice.pdf)
+- [Notes](https://s-ye.github.io/tex/berkeley/reading_notes/inf-dim-lie-alg.pdf) for FA25 reading course on loop groups and infinite dimensional Lie algebras. 
 
-[Perverse Sheaves and the Decomposition Theorem](https://s-ye.github.io/tex/good-notes/perverse-sheaves-nice.pdf)
+- We exposit Danilov's theorem, which describes the equivariant cohomology of a smooth complete toric variety in terms of its normal fan. [Equivariant Cohomology and Moment Maps in Toric Geometry (senior thesis)](https://s-ye.github.io/tex/cornell/senior_thesis.pdf)
 
-[Equivariant Cohomology and Moment Maps in Toric Geometry (senior thesis)](https://s-ye.github.io/tex/senior_thesis.pdf)
 
 
