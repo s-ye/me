@@ -11,7 +11,7 @@ permalink: /
     </div>
     <div>
         <h2>Hello!</h2>
-        <p>I'm a second year graduate student at UC Berkeley curious about representation theory, algebraic geometry, and mathematical physics, with particular interests in loop groups, affine Lie algebras, and the moduli of <span style="font-family: 'STIXGeneral', 'Cambria Math', serif; font-style: italic;">G</span>-bundles on algebraic curves. I obtained my master's degree in May 2026 and am currently looking for jobs in quantitative finance.</p>
+        <p>I'm a second year graduate student at UC Berkeley curious about representation theory, algebraic geometry, and mathematical physics, with particular interests in loop groups, affine Lie algebras, and the moduli of <span style="font-family: 'STIXGeneral', 'Cambria Math', serif; font-style: italic;">G</span>-bundles on algebraic curves. I will obtain my master's degree in December 2026 and am currently looking for jobs in quantitative finance.</p>
         <p>You can write me at songyuye at berkeley dot edu </p>
     </div>
 </div>
